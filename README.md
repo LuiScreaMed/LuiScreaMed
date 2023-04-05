@@ -14,6 +14,8 @@
   <a target="_blank" href="https://steamcommunity.com/id/pisdoit"><img src="https://img.shields.io/badge/Steam-232361?logo=Steam&style=flat-square" /></a>
 </p>
 
+<div align="center" style="width: 50%">
+    
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/6ca489dafa218e78d4cda6edd1581531" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
@@ -25,3 +27,5 @@
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
+    
+</div>
