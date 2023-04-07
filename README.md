@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/6ca489dafa218e78d4cda6edd1581531" target="_blank">🎮 Steam playtime leaderboard</a>
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3242 hrs 27 mins
+🔫 Counter-Strike: Global Offensive 🕘 3242 hrs 29 mins
 🎮 Unturned                         🕘 876 hrs 20 mins
 🎮 DayZ                             🕘 840 hrs 37 mins
 🎮 PAYDAY 2                         🕘 592 hrs 37 mins
