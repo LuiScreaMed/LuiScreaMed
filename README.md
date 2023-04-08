@@ -21,7 +21,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3242 hrs 29 mins
 🎮 Unturned                         🕘 876 hrs 20 mins
-🎮 DayZ                             🕘 840 hrs 37 mins
+🎮 DayZ                             🕘 841 hrs 14 mins
 🎮 PAYDAY 2                         🕘 594 hrs 5 mins
 🚓 Grand Theft Auto V               🕘 489 hrs 0 mins
 ```
