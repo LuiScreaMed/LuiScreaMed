@@ -23,7 +23,7 @@
 🎮 Unturned                         🕘 876 hrs 20 mins
 🎮 DayZ                             🕘 841 hrs 14 mins
 🎮 PAYDAY 2                         🕘 594 hrs 5 mins
-🚓 Grand Theft Auto V               🕘 489 hrs 0 mins
+🚓 Grand Theft Auto V               🕘 489 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
