@@ -17,13 +17,13 @@
 <div align="center" style="width: 50%">
     
 <!-- steam-box start -->
-#### <a href="https://gist.github.com/6ca489dafa218e78d4cda6edd1581531" target="_blank">🎮 Steam playtime leaderboard</a>
+🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3373 hrs 18 mins
-🎮 Unturned                         🕘 876 hrs 20 mins
-🎮 DayZ                             🕘 841 hrs 14 mins
-🎮 PAYDAY 2                         🕘 594 hrs 5 mins
-🚓 Grand Theft Auto V               🕘 489 hrs 5 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 156 hrs 39 mins
+🎮 Ready or Not                     🕘 86 hrs 53 mins
+💻 Wallpaper Engine                 🕘 36 hrs 38 mins
+🎮 VTube Studio                     🕘 149 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
