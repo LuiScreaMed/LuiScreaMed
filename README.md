@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3373 hrs 50 mins
+🔫 Counter-Strike: Global Offensive 🕘 3374 hrs 37 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 156 hrs 39 mins
 🎮 Ready or Not                     🕘 86 hrs 53 mins
 💻 Wallpaper Engine                 🕘 36 hrs 38 mins
