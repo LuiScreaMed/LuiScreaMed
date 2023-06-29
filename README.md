@@ -22,8 +22,8 @@
 🔫 Counter-Strike: Global Offensive 🕘 3374 hrs 37 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 156 hrs 39 mins
 🎮 Ready or Not                     🕘 86 hrs 53 mins
-💻 Wallpaper Engine                 🕘 36 hrs 38 mins
 🎮 Counter-Strike: Global Offensive - SDK 🕘 527 hrs 8 mins
+🎮 VTube Studio                     🕘 149 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
