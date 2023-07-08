@@ -20,8 +20,8 @@
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3390 hrs 25 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 158 hrs 13 mins
 🎮 Counter-Strike: Global Offensive - SDK 🕘 527 hrs 8 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 157 hrs 28 mins
 🎮 VTube Studio                     🕘 150 hrs 1 mins
 🎮 Untitled Goose Game              🕘 8 hrs 33 mins
 ```
