@@ -21,8 +21,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3391 hrs 21 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 158 hrs 13 mins
-🎮 Counter-Strike: Global Offensive - SDK 🕘 527 hrs 8 mins
-🎮 VTube Studio                     🕘 150 hrs 1 mins
+🎮 VTube Studio                     🕘 150 hrs 7 mins
 🚓 Grand Theft Auto V               🕘 489 hrs 5 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
