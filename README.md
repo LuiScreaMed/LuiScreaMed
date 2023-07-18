@@ -19,8 +19,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3402 hrs 36 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 158 hrs 16 mins
+🔫 Counter-Strike: Global Offensive 🕘 3403 hrs 18 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 158 hrs 23 mins
 🎮 VTube Studio                     🕘 150 hrs 9 mins
 🎮 Vitamins                         🕘 0 hrs 28 mins
 ```
