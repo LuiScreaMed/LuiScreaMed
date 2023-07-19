@@ -20,8 +20,9 @@
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3406 hrs 32 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 160 hrs 13 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 160 hrs 34 mins
 🎮 VTube Studio                     🕘 150 hrs 9 mins
+🎮 Sudoku Universe                  🕘 63 hrs 49 mins
 🎮 Vitamins                         🕘 0 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
