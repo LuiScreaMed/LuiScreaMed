@@ -21,9 +21,9 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3407 hrs 16 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 160 hrs 34 mins
+🎮 Stick Fight: The Game            🕘 28 hrs 1 mins
 🎮 VTube Studio                     🕘 150 hrs 9 mins
 🎮 Sudoku Universe                  🕘 63 hrs 49 mins
-🎮 Vitamins                         🕘 0 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
