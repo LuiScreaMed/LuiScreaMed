@@ -22,7 +22,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 3412 hrs 29 mins
 🎮 Unturned                         🕘 892 hrs 12 mins
 🎮 Stick Fight: The Game            🕘 32 hrs 43 mins
-🎮 VTube Studio                     🕘 153 hrs 16 mins
+🎮 VTube Studio                     🕘 154 hrs 16 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 160 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
