@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3421 hrs 47 mins
-🎮 Unturned                         🕘 894 hrs 12 mins
+🎮 Unturned                         🕘 895 hrs 13 mins
 🎮 Stick Fight: The Game            🕘 32 hrs 43 mins
 🎮 VTube Studio                     🕘 154 hrs 35 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 160 hrs 34 mins
