@@ -21,7 +21,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3423 hrs 31 mins
 🎮 Unturned                         🕘 895 hrs 38 mins
-🎮 VTube Studio                     🕘 165 hrs 32 mins
+🎮 VTube Studio                     🕘 166 hrs 32 mins
 🎮 Vitamins                         🕘 10 hrs 31 mins
 🎮 Stick Fight: The Game            🕘 32 hrs 43 mins
 ```
