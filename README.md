@@ -20,8 +20,8 @@
 🎮 Recently played Steam games
 ```text
 🎮 Unturned                         🕘 915 hrs 43 mins
-🔫 Counter-Strike: Global Offensive 🕘 3438 hrs 6 mins
 🎮 VTube Studio                     🕘 175 hrs 53 mins
+🔫 Counter-Strike: Global Offensive 🕘 3438 hrs 6 mins
 🎮 Vitamins                         🕘 13 hrs 25 mins
 🎮 Gunfire Reborn                   🕘 3 hrs 51 mins
 ```
