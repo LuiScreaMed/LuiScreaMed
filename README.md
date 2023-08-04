@@ -23,7 +23,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 3438 hrs 6 mins
 🎮 VTube Studio                     🕘 175 hrs 53 mins
 🎮 Vitamins                         🕘 13 hrs 25 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 162 hrs 37 mins
+🎮 Gunfire Reborn                   🕘 2 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
