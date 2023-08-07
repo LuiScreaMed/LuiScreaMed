@@ -23,7 +23,7 @@
 🎮 VTube Studio                     🕘 175 hrs 53 mins
 🔫 Counter-Strike: Global Offensive 🕘 3438 hrs 6 mins
 🎮 Vitamins                         🕘 13 hrs 25 mins
-🎮 PAYDAY 3 - Beta                  🕘 11 hrs 16 mins
+🎮 PAYDAY 3 - Beta                  🕘 12 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
