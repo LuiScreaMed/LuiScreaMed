@@ -21,7 +21,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3439 hrs 44 mins
 🎮 Unturned                         🕘 915 hrs 43 mins
-🎮 VTube Studio                     🕘 175 hrs 53 mins
+🎮 VTube Studio                     🕘 176 hrs 5 mins
 🎮 Vitamins                         🕘 13 hrs 25 mins
 🎮 PAYDAY 3 - Beta                  🕘 12 hrs 44 mins
 ```
