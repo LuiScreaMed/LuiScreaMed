@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3440 hrs 37 mins
+🔫 Counter-Strike: Global Offensive 🕘 3441 hrs 13 mins
 🎮 Unturned                         🕘 916 hrs 8 mins
 🎮 VTube Studio                     🕘 176 hrs 5 mins
 🎮 Vitamins                         🕘 13 hrs 25 mins
