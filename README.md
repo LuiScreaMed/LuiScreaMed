@@ -22,7 +22,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 3445 hrs 33 mins
 🎮 Unturned                         🕘 916 hrs 8 mins
 🎮 VTube Studio                     🕘 176 hrs 5 mins
-🎮 DayZ                             🕘 856 hrs 31 mins
+🎮 DayZ                             🕘 857 hrs 31 mins
 🎮 PAYDAY 3 - Beta                  🕘 12 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
