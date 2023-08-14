@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 DayZ                             🕘 880 hrs 37 mins
+🎮 DayZ                             🕘 881 hrs 38 mins
 🔫 Counter-Strike: Global Offensive 🕘 3445 hrs 33 mins
 🎮 Unturned                         🕘 916 hrs 8 mins
 🎮 PAYDAY 3 - Beta                  🕘 12 hrs 44 mins
