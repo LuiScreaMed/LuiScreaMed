@@ -21,9 +21,9 @@
 ```text
 🎮 DayZ                             🕘 904 hrs 31 mins
 🎮 PAYDAY 3 - Beta                  🕘 12 hrs 44 mins
-🎮 Gunfire Reborn                   🕘 8 hrs 59 mins
 🎮 PAYDAY 2                         🕘 602 hrs 38 mins
 🔫 Counter-Strike: Global Offensive 🕘 3445 hrs 33 mins
+🎮 Gunfire Reborn                   🕘 8 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
