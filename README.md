@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 DayZ                             🕘 899 hrs 6 mins
+🎮 DayZ                             🕘 899 hrs 37 mins
 🎮 PAYDAY 3 - Beta                  🕘 12 hrs 44 mins
 🔫 Counter-Strike: Global Offensive 🕘 3445 hrs 33 mins
 🎮 Gunfire Reborn                   🕘 8 hrs 59 mins
