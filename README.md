@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 DayZ                             🕘 925 hrs 37 mins
+🎮 DayZ                             🕘 926 hrs 3 mins
 🎮 PAYDAY 2                         🕘 602 hrs 46 mins
 🔫 Counter-Strike: Global Offensive 🕘 3445 hrs 33 mins
 🎮 Gunfire Reborn                   🕘 8 hrs 59 mins
