@@ -20,9 +20,9 @@
 🎮 Recently played Steam games
 ```text
 🎮 DayZ                             🕘 928 hrs 39 mins
-🎮 PAYDAY 2                         🕘 603 hrs 58 mins
-🔫 Counter-Strike: Global Offensive 🕘 3447 hrs 29 mins
+🔫 Counter-Strike: Global Offensive 🕘 3448 hrs 30 mins
 🎮 No More Room in Hell             🕘 3 hrs 23 mins
+🎮 PAYDAY 2                         🕘 603 hrs 58 mins
 🎮 Real Pool 3D - Poolians          🕘 3 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
