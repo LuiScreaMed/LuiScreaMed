@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 DayZ                             🕘 928 hrs 39 mins
-🔫 Counter-Strike: Global Offensive 🕘 3452 hrs 42 mins
+🔫 Counter-Strike: Global Offensive 🕘 3453 hrs 42 mins
 🎮 No More Room in Hell             🕘 3 hrs 23 mins
 🎮 PAYDAY 2                         🕘 604 hrs 19 mins
 🎮 VPet                             🕘 1 hrs 0 mins
