@@ -23,7 +23,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 3453 hrs 59 mins
 🎮 No More Room in Hell             🕘 3 hrs 23 mins
 🎮 PAYDAY 2                         🕘 604 hrs 19 mins
-🎮 VPet                             🕘 1 hrs 0 mins
+🎮 VPet                             🕘 1 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
