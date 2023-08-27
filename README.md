@@ -20,10 +20,10 @@
 🎮 Recently played Steam games
 ```text
 🎮 DayZ                             🕘 929 hrs 56 mins
-🔫 Counter-Strike: Global Offensive 🕘 3457 hrs 24 mins
+🔫 Counter-Strike: Global Offensive 🕘 3457 hrs 37 mins
 🎮 PAYDAY 2                         🕘 607 hrs 51 mins
+🎮 Unrailed!                        🕘 3 hrs 53 mins
 🎮 No More Room in Hell             🕘 3 hrs 23 mins
-🎮 Unrailed!                        🕘 3 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
