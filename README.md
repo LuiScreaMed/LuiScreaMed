@@ -23,7 +23,7 @@
 🔫 Counter-Strike: Global Offensive 🕘 3468 hrs 59 mins
 🎮 PAYDAY 2                         🕘 610 hrs 26 mins
 🎮 Unrailed!                        🕘 3 hrs 53 mins
-🎮 No More Room in Hell             🕘 3 hrs 23 mins
+🎮 VTube Studio                     🕘 178 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
