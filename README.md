@@ -22,7 +22,7 @@
 🎮 DayZ                             🕘 929 hrs 56 mins
 🔫 Counter-Strike: Global Offensive 🕘 3468 hrs 59 mins
 🎮 PAYDAY 2                         🕘 610 hrs 26 mins
-🎮 VTube Studio                     🕘 180 hrs 46 mins
+🎮 VTube Studio                     🕘 181 hrs 18 mins
 🎮 Unrailed!                        🕘 3 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
