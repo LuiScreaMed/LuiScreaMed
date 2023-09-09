@@ -21,8 +21,8 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3494 hrs 27 mins
 🎮 VTube Studio                     🕘 183 hrs 45 mins
-🎮 PAYDAY 2                         🕘 610 hrs 26 mins
 🎮 Unrailed!                        🕘 3 hrs 53 mins
+🎮 PAYDAY 2                         🕘 610 hrs 26 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 165 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
