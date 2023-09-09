@@ -20,8 +20,8 @@
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3491 hrs 41 mins
+🎮 VTube Studio                     🕘 183 hrs 15 mins
 🎮 PAYDAY 2                         🕘 610 hrs 26 mins
-🎮 VTube Studio                     🕘 181 hrs 44 mins
 🎮 Unrailed!                        🕘 3 hrs 53 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 165 hrs 46 mins
 ```
