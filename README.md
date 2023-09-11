@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3498 hrs 0 mins
+🔫 Counter-Strike: Global Offensive 🕘 3498 hrs 30 mins
 🎮 VTube Studio                     🕘 183 hrs 45 mins
 🎮 Escape Simulator                 🕘 50 hrs 33 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 165 hrs 46 mins
