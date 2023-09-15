@@ -19,9 +19,9 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3508 hrs 45 mins
-🎮 VTube Studio                     🕘 183 hrs 45 mins
+🔫 Counter-Strike: Global Offensive 🕘 3509 hrs 56 mins
 🎮 Escape Simulator                 🕘 50 hrs 33 mins
+🎮 VTube Studio                     🕘 183 hrs 45 mins
 🎮 Party Animals Playtest           🕘 1 hrs 29 mins
 🎮 PAYDAY 2                         🕘 610 hrs 33 mins
 ```
