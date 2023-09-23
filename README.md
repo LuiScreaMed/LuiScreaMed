@@ -21,8 +21,8 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3518 hrs 38 mins
 🎮 Escape Simulator                 🕘 50 hrs 33 mins
-🎮 VTube Studio                     🕘 183 hrs 45 mins
 🎮 Party Animals Playtest           🕘 1 hrs 29 mins
+🎮 VTube Studio                     🕘 183 hrs 45 mins
 🎮 PAYDAY 2                         🕘 610 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
