@@ -21,7 +21,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3520 hrs 20 mins
 🎮 Escape Simulator                 🕘 50 hrs 33 mins
-🎮 Soundpad                         🕘 2 hrs 7 mins
+🎮 Soundpad                         🕘 3 hrs 5 mins
 🎮 Party Animals Playtest           🕘 1 hrs 29 mins
 🎮 PAYDAY 2                         🕘 610 hrs 33 mins
 ```
