@@ -21,6 +21,7 @@
 ```text
 🔫 Counter-Strike: Global Offensive 🕘 3523 hrs 46 mins
 🎮 Soundpad                         🕘 7 hrs 42 mins
+🎮 Party Animals                    🕘 0 hrs 49 mins
 🎮 PAYDAY 2                         🕘 610 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
