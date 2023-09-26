@@ -19,9 +19,10 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3526 hrs 20 mins
-🎮 Soundpad                         🕘 14 hrs 53 mins
+🔫 Counter-Strike: Global Offensive 🕘 3527 hrs 42 mins
+🎮 Soundpad                         🕘 20 hrs 59 mins
 🎮 Party Animals                    🕘 1 hrs 54 mins
+🎮 Vitamins                         🕘 13 hrs 41 mins
 🎮 PAYDAY 2                         🕘 610 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
