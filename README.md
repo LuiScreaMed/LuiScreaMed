@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike: Global Offensive 🕘 3527 hrs 42 mins
+🔫 Counter-Strike: Global Offensive 🕘 3528 hrs 26 mins
 🎮 Soundpad                         🕘 20 hrs 59 mins
 🎮 Party Animals                    🕘 1 hrs 54 mins
 🎮 Vitamins                         🕘 13 hrs 41 mins
