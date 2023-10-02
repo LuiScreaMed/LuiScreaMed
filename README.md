@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike 2                 🕘 3545 hrs 2 mins
+🔫 Counter-Strike 2                 🕘 3545 hrs 40 mins
 🎮 Soundpad                         🕘 27 hrs 44 mins
 🎮 Party Animals                    🕘 1 hrs 54 mins
 🎮 Vitamins                         🕘 13 hrs 41 mins
