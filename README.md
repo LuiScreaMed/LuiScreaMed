@@ -21,7 +21,6 @@
 ```text
 🔫 Counter-Strike 2                 🕘 3576 hrs 29 mins
 🎮 Soundpad                         🕘 47 hrs 1 mins
-🎮 Vitamins                         🕘 13 hrs 41 mins
 🎮 VTube Studio                     🕘 183 hrs 56 mins
 ❓ Unknown Game                     🕘 0 hrs 20 mins
 ```
