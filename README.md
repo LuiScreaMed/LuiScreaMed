@@ -21,7 +21,7 @@
 ```text
 🔫 Counter-Strike 2                 🕘 3598 hrs 46 mins
 🎮 Soundpad                         🕘 57 hrs 26 mins
-🎮 Battlefield™ 2042                🕘 3 hrs 52 mins
+🎮 Battlefield™ 2042                🕘 4 hrs 22 mins
 🎮 VTube Studio                     🕘 183 hrs 56 mins
 🎮 The Walking Dead                 🕘 3 hrs 50 mins
 ```
