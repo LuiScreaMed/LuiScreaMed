@@ -19,8 +19,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike 2                 🕘 3613 hrs 20 mins
-🎮 Soundpad                         🕘 65 hrs 3 mins
+🔫 Counter-Strike 2                 🕘 3613 hrs 51 mins
+🎮 Soundpad                         🕘 65 hrs 33 mins
 🎮 Battlefield™ 2042                🕘 5 hrs 28 mins
 🎮 VTube Studio                     🕘 183 hrs 56 mins
 🎮 The Walking Dead                 🕘 3 hrs 50 mins
