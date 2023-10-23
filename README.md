@@ -21,7 +21,7 @@
 ```text
 🔫 Counter-Strike 2                 🕘 3622 hrs 19 mins
 🎮 Soundpad                         🕘 77 hrs 11 mins
-🎮 Battlefield™ 2042                🕘 6 hrs 41 mins
+🎮 Battlefield™ 2042                🕘 7 hrs 8 mins
 🎮 Baldur's Gate 3                  🕘 5 hrs 29 mins
 🎮 The Walking Dead                 🕘 3 hrs 50 mins
 ```
