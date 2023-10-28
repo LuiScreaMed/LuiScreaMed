@@ -22,8 +22,8 @@
 🔫 Counter-Strike 2                 🕘 3631 hrs 46 mins
 🎮 Battlefield™ 2042                🕘 27 hrs 10 mins
 🎮 Soundpad                         🕘 81 hrs 18 mins
+🎮 THE FINALS PLAYTEST              🕘 7 hrs 47 mins
 🎮 Baldur's Gate 3                  🕘 7 hrs 39 mins
-🎮 THE FINALS PLAYTEST              🕘 7 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
