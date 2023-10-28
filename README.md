@@ -23,7 +23,7 @@
 🎮 Battlefield™ 2042                🕘 24 hrs 27 mins
 🎮 Soundpad                         🕘 80 hrs 17 mins
 🎮 Baldur's Gate 3                  🕘 7 hrs 39 mins
-🎮 THE FINALS PLAYTEST              🕘 5 hrs 16 mins
+🎮 THE FINALS PLAYTEST              🕘 6 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
