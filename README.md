@@ -20,8 +20,8 @@
 🎮 Recently played Steam games
 ```text
 🔫 Counter-Strike 2                 🕘 3638 hrs 16 mins
-🎮 Soundpad                         🕘 85 hrs 30 mins
-🎮 Battlefield™ 2042                🕘 30 hrs 55 mins
+🎮 Soundpad                         🕘 86 hrs 31 mins
+🎮 Battlefield™ 2042                🕘 32 hrs 16 mins
 🎮 THE FINALS PLAYTEST              🕘 7 hrs 47 mins
 🎮 Baldur's Gate 3                  🕘 7 hrs 39 mins
 ```
