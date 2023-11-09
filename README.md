@@ -21,8 +21,8 @@
 ```text
 🎮 Battlefield™ 2042                🕘 52 hrs 40 mins
 🎮 Soundpad                         🕘 112 hrs 20 mins
-🔫 Counter-Strike 2                 🕘 3654 hrs 34 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 175 hrs 47 mins
+🔫 Counter-Strike 2                 🕘 3654 hrs 58 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 176 hrs 0 mins
 🎮 THE FINALS PLAYTEST              🕘 7 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
