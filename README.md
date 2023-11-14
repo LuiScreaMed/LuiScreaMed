@@ -21,7 +21,7 @@
 ```text
 🎮 Soundpad                         🕘 127 hrs 30 mins
 🎮 Battlefield™ 2042                🕘 69 hrs 52 mins
-🔫 Counter-Strike 2                 🕘 3664 hrs 59 mins
+🔫 Counter-Strike 2                 🕘 3665 hrs 41 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 180 hrs 30 mins
 🎮 Draw & Guess                     🕘 9 hrs 1 mins
 ```
