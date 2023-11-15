@@ -19,9 +19,9 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Soundpad                         🕘 128 hrs 2 mins
+🎮 Soundpad                         🕘 128 hrs 32 mins
 🎮 Battlefield™ 2042                🕘 69 hrs 52 mins
-🔫 Counter-Strike 2                 🕘 3669 hrs 51 mins
+🔫 Counter-Strike 2                 🕘 3670 hrs 51 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 182 hrs 48 mins
 🎮 Draw & Guess                     🕘 9 hrs 1 mins
 ```
