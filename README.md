@@ -23,7 +23,7 @@
 🎮 Battlefield™ 2042                🕘 90 hrs 49 mins
 🔫 Counter-Strike 2                 🕘 3681 hrs 46 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 189 hrs 33 mins
-🎮 Risk of Rain 2                   🕘 10 hrs 0 mins
+🎮 Risk of Rain 2                   🕘 11 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
