@@ -19,11 +19,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Soundpad                         🕘 175 hrs 6 mins
+🎮 Soundpad                         🕘 176 hrs 7 mins
 🎮 Battlefield™ 2042                🕘 95 hrs 42 mins
 🔫 Counter-Strike 2                 🕘 3683 hrs 24 mins
+🎮 Risk of Rain 2                   🕘 12 hrs 18 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 190 hrs 1 mins
-🎮 Risk of Rain 2                   🕘 11 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
