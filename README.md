@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Battlefield™ 2042                🕘 132 hrs 58 mins
+🎮 Battlefield™ 2042                🕘 133 hrs 28 mins
 🎮 Soundpad                         🕘 197 hrs 55 mins
 🔫 Counter-Strike 2                 🕘 3690 hrs 34 mins
 🎮 Risk of Rain 2                   🕘 20 hrs 6 mins
