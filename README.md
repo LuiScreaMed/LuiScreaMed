@@ -21,7 +21,7 @@
 ```text
 🎮 Battlefield™ 2042                🕘 132 hrs 58 mins
 🎮 Soundpad                         🕘 197 hrs 55 mins
-🔫 Counter-Strike 2                 🕘 3690 hrs 26 mins
+🔫 Counter-Strike 2                 🕘 3690 hrs 34 mins
 🎮 Risk of Rain 2                   🕘 20 hrs 6 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 193 hrs 53 mins
 ```
