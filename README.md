@@ -23,7 +23,7 @@
 🎮 Soundpad                         🕘 197 hrs 55 mins
 🔫 Counter-Strike 2                 🕘 3690 hrs 34 mins
 🎮 Risk of Rain 2                   🕘 20 hrs 6 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 193 hrs 53 mins
+🎮 Lethal Company                   🕘 5 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
