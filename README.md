@@ -20,10 +20,10 @@
 🎮 Recently played Steam games
 ```text
 🎮 Battlefield™ 2042                🕘 150 hrs 57 mins
-🔫 Counter-Strike 2                 🕘 3700 hrs 35 mins
+🔫 Counter-Strike 2                 🕘 3701 hrs 6 mins
 🎮 Soundpad                         🕘 203 hrs 7 mins
 🎮 Lethal Company                   🕘 8 hrs 39 mins
-🎮 Ready or Not                     🕘 92 hrs 23 mins
+🎮 Ready or Not                     🕘 92 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
