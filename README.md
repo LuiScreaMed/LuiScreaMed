@@ -21,8 +21,8 @@
 ```text
 🎮 Battlefield™ 2042                🕘 151 hrs 24 mins
 🔫 Counter-Strike 2                 🕘 3704 hrs 29 mins
+🎮 Lethal Company                   🕘 9 hrs 46 mins
 🎮 Soundpad                         🕘 203 hrs 7 mins
-🎮 Lethal Company                   🕘 8 hrs 39 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 196 hrs 49 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
