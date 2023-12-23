@@ -21,7 +21,7 @@
 ```text
 🎮 Battlefield™ 2042                🕘 155 hrs 26 mins
 🔫 Counter-Strike 2                 🕘 3709 hrs 31 mins
-🎮 Lethal Company                   🕘 22 hrs 39 mins
+🎮 Lethal Company                   🕘 22 hrs 40 mins
 🎮 Ready or Not                     🕘 95 hrs 30 mins
 🎮 Soundpad                         🕘 206 hrs 51 mins
 ```
