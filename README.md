@@ -23,7 +23,7 @@
 🎮 Battlefield™ 2042                🕘 155 hrs 26 mins
 🔫 Counter-Strike 2                 🕘 3709 hrs 31 mins
 🎮 Ready or Not                     🕘 95 hrs 52 mins
-🎮 Soundpad                         🕘 207 hrs 25 mins
+🎮 Soundpad                         🕘 207 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
