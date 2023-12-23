@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Lethal Company                   🕘 24 hrs 41 mins
+🎮 Lethal Company                   🕘 25 hrs 46 mins
 🎮 Battlefield™ 2042                🕘 155 hrs 26 mins
 🔫 Counter-Strike 2                 🕘 3709 hrs 31 mins
 🎮 Ready or Not                     🕘 95 hrs 52 mins
