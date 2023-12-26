@@ -21,8 +21,8 @@
 ```text
 🎮 Lethal Company                   🕘 28 hrs 39 mins
 🔫 Counter-Strike 2                 🕘 3712 hrs 25 mins
-🎮 Ready or Not                     🕘 97 hrs 18 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 205 hrs 30 mins
+🎮 Ready or Not                     🕘 97 hrs 49 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 205 hrs 31 mins
 🎮 Battlefield™ 2042                🕘 155 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
