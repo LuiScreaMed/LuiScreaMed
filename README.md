@@ -23,7 +23,7 @@
 🔫 Counter-Strike 2                 🕘 3714 hrs 43 mins
 🎮 Ready or Not                     🕘 97 hrs 51 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 205 hrs 34 mins
-🎮 Soundpad                         🕘 211 hrs 22 mins
+🎮 Soundpad                         🕘 212 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
