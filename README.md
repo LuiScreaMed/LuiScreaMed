@@ -21,7 +21,7 @@
 ```text
 🎮 Lethal Company                   🕘 31 hrs 17 mins
 🔫 Counter-Strike 2                 🕘 3714 hrs 43 mins
-🎮 Soundpad                         🕘 212 hrs 47 mins
+🎮 Soundpad                         🕘 212 hrs 53 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 205 hrs 43 mins
 🎮 Ready or Not                     🕘 98 hrs 13 mins
 ```
