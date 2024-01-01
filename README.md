@@ -19,10 +19,10 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Lethal Company                   🕘 31 hrs 51 mins
+🎮 Lethal Company                   🕘 32 hrs 41 mins
 🔫 Counter-Strike 2                 🕘 3720 hrs 49 mins
 🎮 Soundpad                         🕘 212 hrs 53 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 205 hrs 43 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 206 hrs 14 mins
 🎮 Ready or Not                     🕘 98 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
