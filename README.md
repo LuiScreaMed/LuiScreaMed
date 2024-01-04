@@ -19,10 +19,10 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike 2                 🕘 3724 hrs 57 mins
-🎮 Lethal Company                   🕘 34 hrs 35 mins
+🔫 Counter-Strike 2                 🕘 3725 hrs 14 mins
+🎮 Lethal Company                   🕘 35 hrs 5 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 206 hrs 46 mins
-🎮 Soundpad                         🕘 212 hrs 53 mins
+🎮 Soundpad                         🕘 213 hrs 54 mins
 🎮 Risk of Rain 2                   🕘 25 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
