@@ -21,7 +21,7 @@
 ```text
 🔫 Counter-Strike 2                 🕘 3723 hrs 24 mins
 🎮 Lethal Company                   🕘 34 hrs 35 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 206 hrs 44 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 206 hrs 46 mins
 🎮 Soundpad                         🕘 212 hrs 53 mins
 🎮 Risk of Rain 2                   🕘 25 hrs 36 mins
 ```
