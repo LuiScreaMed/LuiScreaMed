@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 Soundpad                         🕘 230 hrs 26 mins
-🔫 Counter-Strike 2                 🕘 3727 hrs 57 mins
+🔫 Counter-Strike 2                 🕘 3728 hrs 58 mins
 🎮 Lethal Company                   🕘 41 hrs 30 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 206 hrs 46 mins
 🎮 Risk of Rain 2                   🕘 25 hrs 36 mins
