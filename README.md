@@ -22,7 +22,7 @@
 🎮 Soundpad                         🕘 236 hrs 2 mins
 🔫 Counter-Strike 2                 🕘 3729 hrs 47 mins
 🎮 Lethal Company                   🕘 41 hrs 30 mins
-🎮 Battlefield™ 2042                🕘 165 hrs 9 mins
+🎮 Battlefield™ 2042                🕘 166 hrs 10 mins
 🎮 Risk of Rain 2                   🕘 25 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
