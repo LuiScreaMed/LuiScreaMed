@@ -23,7 +23,7 @@
 🎮 Battlefield™ 2042                🕘 178 hrs 34 mins
 🔫 Counter-Strike 2                 🕘 3740 hrs 39 mins
 🎮 Lethal Company                   🕘 43 hrs 9 mins
-🎮 Risk of Rain 2                   🕘 30 hrs 30 mins
+🎮 Risk of Rain 2                   🕘 30 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
