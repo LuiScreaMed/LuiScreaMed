@@ -23,7 +23,7 @@
 🎮 Battlefield™ 2042                🕘 179 hrs 8 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 211 hrs 48 mins
 🎮 Risk of Rain 2                   🕘 30 hrs 35 mins
-🎮 Sea of Thieves                   🕘 3 hrs 32 mins
+🎮 Sea of Thieves                   🕘 3 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
