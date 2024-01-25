@@ -21,7 +21,7 @@
 ```text
 🔫 Counter-Strike 2                 🕘 3751 hrs 58 mins
 🎮 Battlefield™ 2042                🕘 179 hrs 8 mins
-🎮 Sea of Thieves                   🕘 6 hrs 50 mins
+🎮 Sea of Thieves                   🕘 7 hrs 50 mins
 🎮 Risk of Rain 2                   🕘 30 hrs 35 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 211 hrs 48 mins
 ```
