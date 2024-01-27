@@ -22,7 +22,7 @@
 🔫 Counter-Strike 2                 🕘 3751 hrs 58 mins
 🎮 Sea of Thieves                   🕘 14 hrs 35 mins
 🎮 Battlefield™ 2042                🕘 179 hrs 8 mins
-🎮 Lethal Company                   🕘 45 hrs 35 mins
+🎮 Lethal Company                   🕘 46 hrs 58 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 211 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
