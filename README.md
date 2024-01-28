@@ -19,11 +19,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Sea of Thieves                   🕘 22 hrs 12 mins
+🎮 Sea of Thieves                   🕘 23 hrs 12 mins
 🔫 Counter-Strike 2                 🕘 3751 hrs 58 mins
 🎮 Lethal Company                   🕘 46 hrs 58 mins
-🎮 Battlefield™ 2042                🕘 179 hrs 8 mins
 🎮 Soundpad                         🕘 239 hrs 55 mins
+🎮 Battlefield™ 2042                🕘 179 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
