@@ -19,9 +19,9 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Sea of Thieves                   🕘 29 hrs 46 mins
-🔫 Counter-Strike 2                 🕘 3755 hrs 40 mins
-🎮 Soundpad                         🕘 243 hrs 20 mins
+🎮 Sea of Thieves                   🕘 30 hrs 16 mins
+🔫 Counter-Strike 2                 🕘 3756 hrs 7 mins
+🎮 Soundpad                         🕘 243 hrs 21 mins
 🎮 Lethal Company                   🕘 46 hrs 58 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 211 hrs 48 mins
 ```
