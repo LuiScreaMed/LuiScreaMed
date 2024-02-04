@@ -23,7 +23,7 @@
 🔫 Counter-Strike 2                 🕘 3769 hrs 27 mins
 🎮 Soundpad                         🕘 252 hrs 14 mins
 🎮 Lethal Company                   🕘 46 hrs 58 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 211 hrs 48 mins
+🎮 Battlefield 1 ™                  🕘 31 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
