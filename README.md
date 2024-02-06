@@ -20,8 +20,8 @@
 🎮 Recently played Steam games
 ```text
 🎮 Sea of Thieves                   🕘 37 hrs 7 mins
-🔫 Counter-Strike 2                 🕘 3771 hrs 12 mins
-🎮 Soundpad                         🕘 252 hrs 54 mins
+🔫 Counter-Strike 2                 🕘 3771 hrs 39 mins
+🎮 Soundpad                         🕘 253 hrs 55 mins
 🎮 Lethal Company                   🕘 46 hrs 58 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 211 hrs 48 mins
 ```
