@@ -21,7 +21,7 @@
 ```text
 🎮 Sea of Thieves                   🕘 37 hrs 7 mins
 🔫 Counter-Strike 2                 🕘 3771 hrs 39 mins
-🎮 Soundpad                         🕘 253 hrs 55 mins
+🎮 Soundpad                         🕘 254 hrs 39 mins
 🎮 Lethal Company                   🕘 46 hrs 58 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 211 hrs 48 mins
 ```
