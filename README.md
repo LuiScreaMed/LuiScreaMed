@@ -23,7 +23,7 @@
 🔫 Counter-Strike 2                 🕘 3777 hrs 20 mins
 🎮 Soundpad                         🕘 254 hrs 39 mins
 🎮 Battlefield™ 2042                🕘 184 hrs 43 mins
-🎮 Lethal Company                   🕘 46 hrs 58 mins
+🎮 Squad                            🕘 145 hrs 26 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
