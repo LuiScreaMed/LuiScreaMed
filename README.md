@@ -22,8 +22,8 @@
 🎮 Sea of Thieves                   🕘 37 hrs 7 mins
 🔫 Counter-Strike 2                 🕘 3777 hrs 20 mins
 🎮 Soundpad                         🕘 254 hrs 39 mins
-🎮 Battlefield™ 2042                🕘 184 hrs 43 mins
-🎮 Squad                            🕘 145 hrs 26 mins
+🎮 Battlefield™ 2042                🕘 184 hrs 44 mins
+🎮 Squad                            🕘 146 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
