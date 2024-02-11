@@ -23,7 +23,7 @@
 🎮 Soundpad                         🕘 254 hrs 39 mins
 🎮 Sea of Thieves                   🕘 37 hrs 7 mins
 🎮 Battlefield™ 2042                🕘 184 hrs 47 mins
-🎮 Squad                            🕘 147 hrs 13 mins
+🎮 Squad                            🕘 148 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
