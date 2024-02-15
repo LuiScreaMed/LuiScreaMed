@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike 2                 🕘 3782 hrs 9 mins
+🔫 Counter-Strike 2                 🕘 3782 hrs 37 mins
 🎮 Squad                            🕘 149 hrs 54 mins
 🎮 Soundpad                         🕘 254 hrs 39 mins
 🎮 Battlefield™ 2042                🕘 184 hrs 48 mins
