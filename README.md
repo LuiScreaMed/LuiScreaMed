@@ -22,8 +22,8 @@
 🔫 Counter-Strike 2                 🕘 3788 hrs 53 mins
 🎮 Squad                            🕘 149 hrs 54 mins
 🎮 Battlefield™ 2042                🕘 184 hrs 48 mins
-🎮 Soundpad                         🕘 254 hrs 39 mins
 🎮 VTube Studio                     🕘 188 hrs 13 mins
+🎮 Soundpad                         🕘 254 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
