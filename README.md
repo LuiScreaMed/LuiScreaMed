@@ -23,7 +23,7 @@
 🎮 Squad                            🕘 149 hrs 54 mins
 🎮 Battlefield™ 2042                🕘 184 hrs 48 mins
 🎮 VTube Studio                     🕘 188 hrs 28 mins
-🎮 Escape Simulator                 🕘 50 hrs 57 mins
+🎮 PAYDAY 2                         🕘 610 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
