@@ -22,8 +22,8 @@
 🔫 Counter-Strike 2                 🕘 3792 hrs 35 mins
 🎮 Squad                            🕘 149 hrs 54 mins
 🎮 VTube Studio                     🕘 188 hrs 28 mins
-🎮 Battlefield™ 2042                🕘 184 hrs 48 mins
 🎮 PAYDAY 2                         🕘 610 hrs 42 mins
+🎮 Battlefield™ 2042                🕘 184 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
