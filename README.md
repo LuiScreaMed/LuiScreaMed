@@ -19,9 +19,9 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike 2                 🕘 3792 hrs 35 mins
+🔫 Counter-Strike 2                 🕘 3792 hrs 42 mins
 🎮 Squad                            🕘 149 hrs 54 mins
-🎮 VTube Studio                     🕘 188 hrs 33 mins
+🎮 VTube Studio                     🕘 188 hrs 44 mins
 🎮 PAYDAY 2                         🕘 610 hrs 42 mins
 🎮 Battlefield™ 2042                🕘 184 hrs 48 mins
 ```
