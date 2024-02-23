@@ -21,7 +21,7 @@
 ```text
 🔫 Counter-Strike 2                 🕘 3795 hrs 22 mins
 🎮 Squad                            🕘 149 hrs 54 mins
-🎮 Soundpad                         🕘 259 hrs 14 mins
+🎮 Soundpad                         🕘 260 hrs 21 mins
 🎮 VTube Studio                     🕘 190 hrs 40 mins
 🎮 PAYDAY 2                         🕘 610 hrs 42 mins
 ```
