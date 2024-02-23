@@ -19,10 +19,10 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🔫 Counter-Strike 2                 🕘 3793 hrs 48 mins
+🔫 Counter-Strike 2                 🕘 3794 hrs 33 mins
 🎮 Squad                            🕘 149 hrs 54 mins
 🎮 VTube Studio                     🕘 190 hrs 40 mins
-🎮 Soundpad                         🕘 255 hrs 12 mins
+🎮 Soundpad                         🕘 256 hrs 13 mins
 🎮 PAYDAY 2                         🕘 610 hrs 42 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
