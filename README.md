@@ -23,7 +23,7 @@
 🎮 Soundpad                         🕘 260 hrs 21 mins
 🎮 VTube Studio                     🕘 190 hrs 40 mins
 🎮 Squad                            🕘 149 hrs 54 mins
-🎮 PAYDAY 2                         🕘 610 hrs 42 mins
+🎮 Escape Simulator                 🕘 50 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
