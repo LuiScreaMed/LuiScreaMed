@@ -23,7 +23,7 @@
 🎮 Soundpad                         🕘 260 hrs 21 mins
 🎮 VTube Studio                     🕘 190 hrs 40 mins
 🎮 Squad                            🕘 149 hrs 54 mins
-🎮 Blender                          🕘 4 hrs 6 mins
+🎮 Blender                          🕘 4 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
