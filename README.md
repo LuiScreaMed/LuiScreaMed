@@ -22,8 +22,8 @@
 🔫 Counter-Strike 2                 🕘 3798 hrs 7 mins
 🎮 Soundpad                         🕘 260 hrs 21 mins
 🎮 VTube Studio                     🕘 190 hrs 40 mins
-🎮 VRoid Studio                     🕘 1 hrs 40 mins
-🎮 Squad                            🕘 149 hrs 54 mins
+🎮 VRoid Studio                     🕘 2 hrs 15 mins
+🎮 Blender                          🕘 4 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
