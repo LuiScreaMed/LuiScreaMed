@@ -23,7 +23,7 @@
 🎮 Soundpad                         🕘 260 hrs 21 mins
 🎮 VTube Studio                     🕘 190 hrs 40 mins
 🎮 VRoid Studio                     🕘 2 hrs 15 mins
-🎮 Blender                          🕘 4 hrs 34 mins
+🎮 GRID 2                           🕘 19 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
