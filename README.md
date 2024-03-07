@@ -22,8 +22,8 @@
 🔫 Counter-Strike 2                 🕘 3801 hrs 25 mins
 🎮 Soundpad                         🕘 260 hrs 21 mins
 🎮 Virtual Pool 4 Multiplayer       🕘 2 hrs 37 mins
-🎮 VTube Studio                     🕘 190 hrs 40 mins
 🎮 VRoid Studio                     🕘 2 hrs 15 mins
+🎮 VTube Studio                     🕘 190 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
