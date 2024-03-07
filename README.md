@@ -23,7 +23,7 @@
 🎮 Soundpad                         🕘 260 hrs 21 mins
 🎮 Virtual Pool 4 Multiplayer       🕘 2 hrs 37 mins
 🎮 VRoid Studio                     🕘 2 hrs 15 mins
-🎮 Real Pool 3D - Poolians          🕘 5 hrs 26 mins
+🎮 SteamVR                          🕘 8 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
