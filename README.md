@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 SteamVR                          🕘 13 hrs 3 mins
-🔫 Counter-Strike 2                 🕘 3801 hrs 26 mins
+🔫 Counter-Strike 2                 🕘 3802 hrs 26 mins
 🎮 Hot Dogs, Horseshoes & Hand Grenades 🕘 3 hrs 15 mins
 🎮 Virtual Pool 4 Multiplayer       🕘 2 hrs 37 mins
 🎮 VRoid Studio                     🕘 2 hrs 15 mins
