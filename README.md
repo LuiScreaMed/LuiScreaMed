@@ -23,7 +23,7 @@
 🎮 VRChat                           🕘 7 hrs 7 mins
 🔫 Counter-Strike 2                 🕘 3802 hrs 58 mins
 🎮 Hot Dogs, Horseshoes & Hand Grenades 🕘 3 hrs 15 mins
-🎮 Virtual Pool 4 Multiplayer       🕘 2 hrs 37 mins
+🎮 VTube Studio                     🕘 193 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
