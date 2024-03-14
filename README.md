@@ -21,7 +21,7 @@
 ```text
 🎮 SteamVR                          🕘 15 hrs 56 mins
 🎮 VRChat                           🕘 7 hrs 7 mins
-🔫 Counter-Strike 2                 🕘 3802 hrs 58 mins
+🔫 Counter-Strike 2                 🕘 3803 hrs 28 mins
 🎮 Hot Dogs, Horseshoes & Hand Grenades 🕘 3 hrs 15 mins
 🎮 VTube Studio                     🕘 193 hrs 52 mins
 ```
