@@ -22,8 +22,8 @@
 🎮 SteamVR                          🕘 15 hrs 56 mins
 🔫 Counter-Strike 2                 🕘 3804 hrs 40 mins
 🎮 VRChat                           🕘 7 hrs 7 mins
+🎮 Blender                          🕘 7 hrs 42 mins
 🎮 Hot Dogs, Horseshoes & Hand Grenades 🕘 3 hrs 15 mins
-🎮 VTube Studio                     🕘 193 hrs 52 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
