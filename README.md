@@ -21,8 +21,8 @@
 ```text
 🎮 SteamVR                          🕘 21 hrs 14 mins
 🎮 VRChat                           🕘 12 hrs 12 mins
+🎮 Blender                          🕘 11 hrs 27 mins
 🔫 Counter-Strike 2                 🕘 3804 hrs 40 mins
-🎮 Blender                          🕘 11 hrs 5 mins
 🎮 Hot Dogs, Horseshoes & Hand Grenades 🕘 3 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
