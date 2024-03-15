@@ -19,10 +19,10 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 20 hrs 52 mins
-🎮 VRChat                           🕘 12 hrs 5 mins
+🎮 SteamVR                          🕘 21 hrs 14 mins
+🎮 VRChat                           🕘 12 hrs 12 mins
 🔫 Counter-Strike 2                 🕘 3804 hrs 40 mins
-🎮 Blender                          🕘 10 hrs 34 mins
+🎮 Blender                          🕘 11 hrs 5 mins
 🎮 Hot Dogs, Horseshoes & Hand Grenades 🕘 3 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
