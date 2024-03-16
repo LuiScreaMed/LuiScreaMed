@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 SteamVR                          🕘 21 hrs 14 mins
-🎮 Blender                          🕘 17 hrs 11 mins
+🎮 Blender                          🕘 18 hrs 41 mins
 🎮 VRChat                           🕘 12 hrs 12 mins
 🔫 Counter-Strike 2                 🕘 3804 hrs 40 mins
 🎮 Hot Dogs, Horseshoes & Hand Grenades 🕘 3 hrs 15 mins
