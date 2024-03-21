@@ -23,7 +23,7 @@
 🎮 VRoid Studio                     🕘 16 hrs 52 mins
 🎮 SteamVR                          🕘 21 hrs 14 mins
 🎮 VRChat                           🕘 12 hrs 12 mins
-🔫 Counter-Strike 2                 🕘 3806 hrs 40 mins
+🔫 Counter-Strike 2                 🕘 3807 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
