@@ -21,8 +21,8 @@
 ```text
 🎮 Blender                          🕘 107 hrs 23 mins
 🎮 VRoid Studio                     🕘 16 hrs 52 mins
-🎮 VRChat                           🕘 12 hrs 12 mins
 🎮 SteamVR                          🕘 21 hrs 14 mins
+🎮 VRChat                           🕘 12 hrs 12 mins
 🔫 Counter-Strike 2                 🕘 3808 hrs 34 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
