@@ -22,8 +22,8 @@
 🎮 Blender                          🕘 140 hrs 22 mins
 🎮 VRoid Studio                     🕘 16 hrs 52 mins
 🔫 Counter-Strike 2                 🕘 3808 hrs 34 mins
-🎮 SteamVR                          🕘 21 hrs 14 mins
-🎮 VRChat                           🕘 12 hrs 12 mins
+🎮 VTube Studio                     🕘 195 hrs 41 mins
+🎮 GROUND BRANCH                    🕘 19 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
