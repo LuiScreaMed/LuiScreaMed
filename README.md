@@ -21,9 +21,9 @@
 ```text
 🎮 Blender                          🕘 140 hrs 22 mins
 🔫 Counter-Strike 2                 🕘 3809 hrs 9 mins
-🎮 VRoid Studio                     🕘 16 hrs 52 mins
 🎮 VTube Studio                     🕘 195 hrs 41 mins
 🎮 GROUND BRANCH                    🕘 19 hrs 4 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 213 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
