@@ -21,7 +21,7 @@
 ```text
 🎮 Blender                          🕘 140 hrs 22 mins
 🔫 Counter-Strike 2                 🕘 3809 hrs 9 mins
-🎮 VTube Studio                     🕘 195 hrs 42 mins
+🎮 VTube Studio                     🕘 196 hrs 12 mins
 🎮 GROUND BRANCH                    🕘 19 hrs 4 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 213 hrs 43 mins
 ```
