@@ -20,8 +20,8 @@
 🎮 Recently played Steam games
 ```text
 🎮 Blender                          🕘 140 hrs 22 mins
+🎮 VTube Studio                     🕘 199 hrs 15 mins
 🔫 Counter-Strike 2                 🕘 3809 hrs 9 mins
-🎮 VTube Studio                     🕘 198 hrs 14 mins
 🎮 GROUND BRANCH                    🕘 19 hrs 4 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 213 hrs 43 mins
 ```
