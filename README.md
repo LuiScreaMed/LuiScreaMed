@@ -19,11 +19,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 199 hrs 7 mins
+🎮 Blender                          🕘 199 hrs 48 mins
 🎮 VTube Studio                     🕘 202 hrs 50 mins
 🎮 GROUND BRANCH                    🕘 19 hrs 4 mins
 🔫 Counter-Strike 2                 🕘 3809 hrs 9 mins
-🎮 Real Pool 3D - Poolians          🕘 5 hrs 39 mins
+🎮 VRChat                           🕘 12 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
