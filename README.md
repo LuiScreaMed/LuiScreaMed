@@ -21,7 +21,7 @@
 ```text
 🎮 Blender                          🕘 257 hrs 9 mins
 🎮 SteamVR                          🕘 106 hrs 8 mins
-🎮 VRChat                           🕘 76 hrs 42 mins
+🎮 VRChat                           🕘 76 hrs 46 mins
 🎮 Brotato                          🕘 5 hrs 35 mins
 🔫 Counter-Strike 2                 🕘 3814 hrs 40 mins
 ```
