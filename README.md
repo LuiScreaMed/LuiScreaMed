@@ -22,7 +22,7 @@
 🎮 Blender                          🕘 257 hrs 9 mins
 🎮 SteamVR                          🕘 105 hrs 33 mins
 🎮 VRChat                           🕘 75 hrs 45 mins
-🎮 Brotato                          🕘 5 hrs 28 mins
+🎮 Brotato                          🕘 5 hrs 35 mins
 🎮 OVR Advanced Settings            🕘 4 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
