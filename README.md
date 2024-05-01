@@ -23,7 +23,7 @@
 🎮 VRChat                           🕘 150 hrs 37 mins
 🎮 OVR Advanced Settings            🕘 72 hrs 50 mins
 🎮 Blender                          🕘 303 hrs 26 mins
-🎮 Brotato                          🕘 5 hrs 46 mins
+🎮 雀魂麻将(MahjongSoul)            🕘 213 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
