@@ -23,7 +23,7 @@
 🎮 SteamVR                          🕘 183 hrs 9 mins
 🎮 OVR Advanced Settings            🕘 75 hrs 37 mins
 🎮 Blender                          🕘 310 hrs 3 mins
-🎮 雀魂麻将(MahjongSoul)            🕘 213 hrs 48 mins
+🔫 Counter-Strike 2                 🕘 3815 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
