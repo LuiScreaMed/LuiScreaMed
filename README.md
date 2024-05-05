@@ -19,8 +19,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 347 hrs 7 mins
-🎮 VRChat                           🕘 182 hrs 40 mins
+🎮 Blender                          🕘 348 hrs 22 mins
+🎮 VRChat                           🕘 182 hrs 47 mins
 🎮 SteamVR                          🕘 191 hrs 42 mins
 🎮 OVR Advanced Settings            🕘 84 hrs 10 mins
 🔫 Counter-Strike 2                 🕘 3815 hrs 22 mins
