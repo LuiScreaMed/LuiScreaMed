@@ -21,8 +21,8 @@
 ```text
 🎮 Blender                          🕘 457 hrs 5 mins
 🎮 VRChat                           🕘 215 hrs 38 mins
-🎮 SteamVR                          🕘 203 hrs 58 mins
-🎮 OVR Advanced Settings            🕘 96 hrs 25 mins
+🎮 SteamVR                          🕘 204 hrs 15 mins
+🎮 OVR Advanced Settings            🕘 96 hrs 41 mins
 🎮 Content Warning                  🕘 3 hrs 15 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
