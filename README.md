@@ -20,8 +20,8 @@
 🎮 Recently played Steam games
 ```text
 🎮 Blender                          🕘 472 hrs 29 mins
-🎮 VRChat                           🕘 227 hrs 9 mins
-🎮 SteamVR                          🕘 220 hrs 11 mins
+🎮 VRChat                           🕘 228 hrs 25 mins
+🎮 SteamVR                          🕘 220 hrs 12 mins
 🎮 OVR Advanced Settings            🕘 111 hrs 31 mins
 🎮 100% Orange Juice                🕘 73 hrs 12 mins
 ```
