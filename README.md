@@ -21,8 +21,8 @@
 ```text
 🎮 Blender                          🕘 478 hrs 3 mins
 🎮 VRChat                           🕘 237 hrs 30 mins
-🎮 SteamVR                          🕘 223 hrs 59 mins
-🎮 OVR Advanced Settings            🕘 115 hrs 19 mins
+🎮 SteamVR                          🕘 225 hrs 0 mins
+🎮 OVR Advanced Settings            🕘 116 hrs 19 mins
 🎮 100% Orange Juice                🕘 73 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
