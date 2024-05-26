@@ -19,10 +19,10 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 302 hrs 26 mins
+🎮 VRChat                           🕘 303 hrs 27 mins
 🎮 Blender                          🕘 483 hrs 1 mins
-🎮 SteamVR                          🕘 259 hrs 51 mins
-🎮 OVR Advanced Settings            🕘 151 hrs 9 mins
+🎮 SteamVR                          🕘 260 hrs 52 mins
+🎮 OVR Advanced Settings            🕘 152 hrs 10 mins
 🎮 100% Orange Juice                🕘 73 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
