@@ -23,7 +23,7 @@
 🎮 SteamVR                          🕘 267 hrs 44 mins
 🎮 OVR Advanced Settings            🕘 159 hrs 2 mins
 🎮 Blender                          🕘 483 hrs 1 mins
-🎮 100% Orange Juice                🕘 73 hrs 12 mins
+🔫 Counter-Strike 2                 🕘 3817 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
