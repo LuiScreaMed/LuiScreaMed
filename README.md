@@ -23,7 +23,7 @@
 🎮 SteamVR                          🕘 285 hrs 9 mins
 🎮 OVR Advanced Settings            🕘 176 hrs 26 mins
 🔫 Counter-Strike 2                 🕘 3820 hrs 18 mins
-🎮 Blender                          🕘 484 hrs 20 mins
+🎮 VTube Studio                     🕘 207 hrs 43 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
