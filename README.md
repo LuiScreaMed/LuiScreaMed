@@ -19,9 +19,9 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 404 hrs 0 mins
-🎮 SteamVR                          🕘 313 hrs 17 mins
-🎮 OVR Advanced Settings            🕘 204 hrs 31 mins
+🎮 VRChat                           🕘 405 hrs 12 mins
+🎮 SteamVR                          🕘 314 hrs 39 mins
+🎮 OVR Advanced Settings            🕘 205 hrs 53 mins
 🎮 Blender                          🕘 507 hrs 35 mins
 🎮 VTube Studio                     🕘 211 hrs 28 mins
 ```
