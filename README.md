@@ -22,8 +22,8 @@
 🎮 VRChat                           🕘 477 hrs 1 mins
 🎮 SteamVR                          🕘 364 hrs 4 mins
 🎮 OVR Advanced Settings            🕘 255 hrs 16 mins
-🎮 Blender                          🕘 554 hrs 9 mins
-🎮 Battlefield 1 ™                  🕘 34 hrs 44 mins
+🎮 Blender                          🕘 554 hrs 35 mins
+🎮 Battlefield 1 ™                  🕘 34 hrs 54 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
