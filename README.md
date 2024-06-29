@@ -22,7 +22,7 @@
 🎮 VRChat                           🕘 486 hrs 25 mins
 🎮 SteamVR                          🕘 371 hrs 24 mins
 🎮 OVR Advanced Settings            🕘 262 hrs 36 mins
-🎮 Blender                          🕘 556 hrs 38 mins
+🎮 Blender                          🕘 557 hrs 8 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 216 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
