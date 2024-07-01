@@ -23,7 +23,7 @@
 🎮 SteamVR                          🕘 381 hrs 14 mins
 🎮 OVR Advanced Settings            🕘 272 hrs 25 mins
 🎮 Blender                          🕘 564 hrs 22 mins
-🎮 Noita                            🕘 138 hrs 43 mins
+🎮 Escape Simulator                 🕘 57 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
