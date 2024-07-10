@@ -19,9 +19,9 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 522 hrs 44 mins
-🎮 SteamVR                          🕘 409 hrs 8 mins
-🎮 OVR Advanced Settings            🕘 300 hrs 16 mins
+🎮 VRChat                           🕘 523 hrs 38 mins
+🎮 SteamVR                          🕘 410 hrs 8 mins
+🎮 OVR Advanced Settings            🕘 301 hrs 17 mins
 🎮 Noita                            🕘 157 hrs 4 mins
 🎮 Blender                          🕘 565 hrs 2 mins
 ```
