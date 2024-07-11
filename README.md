@@ -19,8 +19,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 413 hrs 20 mins
-🎮 OVR Advanced Settings            🕘 304 hrs 26 mins
+🎮 SteamVR                          🕘 413 hrs 38 mins
+🎮 OVR Advanced Settings            🕘 304 hrs 44 mins
 🎮 VRChat                           🕘 525 hrs 34 mins
 🎮 Noita                            🕘 157 hrs 4 mins
 🎮 Sudoku Universe                  🕘 73 hrs 42 mins
