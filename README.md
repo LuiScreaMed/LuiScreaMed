@@ -21,9 +21,9 @@
 ```text
 🎮 SteamVR                          🕘 416 hrs 26 mins
 🎮 OVR Advanced Settings            🕘 307 hrs 32 mins
-🎮 VRChat                           🕘 529 hrs 0 mins
+🎮 VRChat                           🕘 530 hrs 0 mins
 🎮 Noita                            🕘 157 hrs 4 mins
-🎮 Sudoku Universe                  🕘 73 hrs 54 mins
+🎮 Sudoku Universe                  🕘 74 hrs 2 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
