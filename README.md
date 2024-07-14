@@ -19,11 +19,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 534 hrs 19 mins
+🎮 VRChat                           🕘 534 hrs 28 mins
 🎮 SteamVR                          🕘 419 hrs 17 mins
 🎮 OVR Advanced Settings            🕘 310 hrs 23 mins
 🎮 Noita                            🕘 157 hrs 4 mins
-🎮 Sudoku Universe                  🕘 74 hrs 8 mins
+🎮 Sudoku Universe                  🕘 74 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
