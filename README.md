@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 539 hrs 16 mins
+🎮 VRChat                           🕘 539 hrs 48 mins
 🎮 SteamVR                          🕘 421 hrs 52 mins
 🎮 OVR Advanced Settings            🕘 312 hrs 58 mins
 🎮 TrackMania² Canyon               🕘 17 hrs 6 mins
