@@ -23,7 +23,7 @@
 🎮 SteamVR                          🕘 421 hrs 52 mins
 🎮 OVR Advanced Settings            🕘 312 hrs 58 mins
 🎮 TrackMania² Canyon               🕘 17 hrs 6 mins
-🎮 Sudoku Universe                  🕘 74 hrs 22 mins
+🎮 Overwatch® 2                     🕘 8 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
