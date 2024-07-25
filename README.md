@@ -23,7 +23,7 @@
 🎮 SteamVR                          🕘 423 hrs 52 mins
 🎮 OVR Advanced Settings            🕘 314 hrs 58 mins
 🎮 VTube Studio                     🕘 218 hrs 1 mins
-🎮 TrackMania² Canyon               🕘 17 hrs 6 mins
+🎮 TrackMania² Canyon               🕘 17 hrs 10 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
