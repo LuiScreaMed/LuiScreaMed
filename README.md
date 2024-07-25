@@ -22,8 +22,8 @@
 🎮 VRChat                           🕘 541 hrs 25 mins
 🎮 SteamVR                          🕘 423 hrs 52 mins
 🎮 OVR Advanced Settings            🕘 314 hrs 58 mins
+🎮 VTube Studio                     🕘 218 hrs 1 mins
 🎮 TrackMania² Canyon               🕘 17 hrs 6 mins
-🎮 VTube Studio                     🕘 216 hrs 59 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
