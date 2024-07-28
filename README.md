@@ -20,10 +20,10 @@
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 545 hrs 43 mins
+🎮 VTube Studio                     🕘 220 hrs 45 mins
 🎮 SteamVR                          🕘 428 hrs 16 mins
 🎮 OVR Advanced Settings            🕘 319 hrs 21 mins
 🎮 Overwatch® 2                     🕘 13 hrs 12 mins
-🎮 VTube Studio                     🕘 219 hrs 45 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
