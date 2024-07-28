@@ -22,8 +22,8 @@
 🎮 VTube Studio                     🕘 221 hrs 37 mins
 🎮 VRChat                           🕘 545 hrs 43 mins
 🎮 Overwatch® 2                     🕘 13 hrs 12 mins
-🎮 OVR Advanced Settings            🕘 319 hrs 21 mins
 🎮 SteamVR                          🕘 428 hrs 16 mins
+🎮 OVR Advanced Settings            🕘 319 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
