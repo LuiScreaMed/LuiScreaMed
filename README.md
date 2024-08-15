@@ -21,7 +21,7 @@
 ```text
 🎮 Overwatch® 2                     🕘 52 hrs 53 mins
 🎮 Blender                          🕘 614 hrs 14 mins
-🎮 Bloons TD 6                      🕘 13 hrs 8 mins
+🎮 Bloons TD 6                      🕘 13 hrs 21 mins
 🎮 Soundpad                         🕘 278 hrs 24 mins
 🎮 VRChat                           🕘 566 hrs 6 mins
 ```
