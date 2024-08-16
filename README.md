@@ -19,8 +19,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 617 hrs 20 mins
 🎮 Overwatch® 2                     🕘 55 hrs 11 mins
+🎮 Blender                          🕘 617 hrs 20 mins
 🎮 Bloons TD 6                      🕘 13 hrs 40 mins
 🎮 Soundpad                         🕘 278 hrs 24 mins
 🔫 Counter-Strike 2                 🕘 3832 hrs 2 mins
