@@ -22,7 +22,7 @@
 🎮 Blender                          🕘 617 hrs 20 mins
 🎮 Overwatch® 2                     🕘 55 hrs 11 mins
 🎮 Bloons TD 6                      🕘 13 hrs 40 mins
-🔫 Counter-Strike 2                 🕘 3835 hrs 48 mins
+🔫 Counter-Strike 2                 🕘 3835 hrs 50 mins
 🎮 Soundpad                         🕘 278 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
