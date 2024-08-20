@@ -21,7 +21,7 @@
 ```text
 🎮 Blender                          🕘 617 hrs 29 mins
 🎮 Overwatch® 2                     🕘 63 hrs 38 mins
-🔫 Counter-Strike 2                 🕘 3838 hrs 49 mins
+🔫 Counter-Strike 2                 🕘 3839 hrs 2 mins
 🎮 Bloons TD 6                      🕘 13 hrs 41 mins
 🎮 VRChat                           🕘 566 hrs 6 mins
 ```
