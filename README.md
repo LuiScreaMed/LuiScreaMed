@@ -23,7 +23,7 @@
 🎮 Overwatch® 2                     🕘 63 hrs 38 mins
 🔫 Counter-Strike 2                 🕘 3839 hrs 2 mins
 🎮 Bloons TD 6                      🕘 13 hrs 41 mins
-🎮 VRChat                           🕘 567 hrs 32 mins
+🎮 VRChat                           🕘 568 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
