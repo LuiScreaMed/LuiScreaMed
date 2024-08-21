@@ -21,8 +21,8 @@
 ```text
 🎮 Blender                          🕘 617 hrs 29 mins
 🎮 Overwatch® 2                     🕘 63 hrs 38 mins
-🔫 Counter-Strike 2                 🕘 3839 hrs 32 mins
-🎮 Bloons TD 6                      🕘 13 hrs 41 mins
+🔫 Counter-Strike 2                 🕘 3840 hrs 27 mins
+🎮 Bloons TD 6                      🕘 13 hrs 42 mins
 🎮 VRChat                           🕘 568 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
