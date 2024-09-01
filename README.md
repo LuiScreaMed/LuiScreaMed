@@ -21,9 +21,9 @@
 ```text
 🎮 Blender                          🕘 738 hrs 45 mins
 🎮 Overwatch® 2                     🕘 76 hrs 44 mins
-🎮 VRChat                           🕘 579 hrs 28 mins
+🎮 VRChat                           🕘 579 hrs 58 mins
 🎮 Black Myth: Wukong               🕘 6 hrs 45 mins
-🔫 Counter-Strike 2                 🕘 3840 hrs 49 mins
+🎮 OVR Advanced Settings            🕘 338 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
