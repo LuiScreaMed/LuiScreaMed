@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 Blender                          🕘 746 hrs 14 mins
-🎮 Overwatch® 2                     🕘 78 hrs 15 mins
+🎮 Overwatch® 2                     🕘 79 hrs 6 mins
 🎮 VRChat                           🕘 581 hrs 32 mins
 🎮 Black Myth: Wukong               🕘 6 hrs 45 mins
 🎮 OVR Advanced Settings            🕘 338 hrs 33 mins
