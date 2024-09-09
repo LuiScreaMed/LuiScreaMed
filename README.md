@@ -22,7 +22,7 @@
 🎮 Blender                          🕘 797 hrs 0 mins
 🎮 VRChat                           🕘 602 hrs 24 mins
 🎮 Overwatch® 2                     🕘 89 hrs 55 mins
-🎮 Soundpad                         🕘 295 hrs 5 mins
+🎮 Soundpad                         🕘 295 hrs 37 mins
 🎮 SteamVR                          🕘 459 hrs 14 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
