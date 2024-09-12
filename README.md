@@ -21,7 +21,7 @@
 ```text
 🎮 Blender                          🕘 812 hrs 42 mins
 🎮 VRChat                           🕘 619 hrs 2 mins
-🎮 Soundpad                         🕘 304 hrs 15 mins
+🎮 Soundpad                         🕘 305 hrs 15 mins
 🎮 SteamVR                          🕘 465 hrs 24 mins
 🎮 OVR Advanced Settings            🕘 356 hrs 27 mins
 ```
