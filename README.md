@@ -20,9 +20,9 @@
 🎮 Recently played Steam games
 ```text
 🎮 Blender                          🕘 827 hrs 18 mins
-🎮 VRChat                           🕘 638 hrs 55 mins
-🎮 SteamVR                          🕘 483 hrs 21 mins
-🎮 OVR Advanced Settings            🕘 374 hrs 22 mins
+🎮 VRChat                           🕘 639 hrs 51 mins
+🎮 SteamVR                          🕘 484 hrs 33 mins
+🎮 OVR Advanced Settings            🕘 375 hrs 34 mins
 🎮 Overwatch® 2                     🕘 109 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
