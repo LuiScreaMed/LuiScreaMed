@@ -21,8 +21,8 @@
 ```text
 🎮 Blender                          🕘 858 hrs 29 mins
 🎮 VRChat                           🕘 648 hrs 32 mins
-🎮 SteamVR                          🕘 493 hrs 15 mins
-🎮 OVR Advanced Settings            🕘 384 hrs 16 mins
+🎮 SteamVR                          🕘 493 hrs 45 mins
+🎮 OVR Advanced Settings            🕘 384 hrs 46 mins
 🎮 Overwatch® 2                     🕘 120 hrs 40 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
