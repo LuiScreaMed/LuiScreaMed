@@ -22,7 +22,7 @@
 🎮 VRChat                           🕘 697 hrs 47 mins
 🔫 Counter-Strike 2                 🕘 3864 hrs 19 mins
 🎮 Project Zomboid                  🕘 5 hrs 15 mins
-🎮 Overwatch® 2                     🕘 152 hrs 54 mins
+🎮 Overwatch® 2                     🕘 153 hrs 55 mins
 🎮 Blender                          🕘 875 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
