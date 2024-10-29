@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Project Zomboid                  🕘 25 hrs 27 mins
+🎮 Project Zomboid                  🕘 26 hrs 16 mins
 🎮 VRChat                           🕘 703 hrs 45 mins
 🎮 Overwatch® 2                     🕘 153 hrs 59 mins
 🎮 Blender                          🕘 875 hrs 23 mins
