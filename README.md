@@ -22,8 +22,8 @@
 🎮 Project Zomboid                  🕘 36 hrs 13 mins
 🎮 VRChat                           🕘 711 hrs 42 mins
 🎮 Overwatch® 2                     🕘 153 hrs 59 mins
-🎮 ASTRONEER                        🕘 16 hrs 9 mins
 🔫 Counter-Strike 2                 🕘 3864 hrs 19 mins
+🎮 ASTRONEER                        🕘 16 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
