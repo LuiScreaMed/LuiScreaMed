@@ -22,8 +22,8 @@
 🎮 Project Zomboid                  🕘 43 hrs 11 mins
 🎮 VRChat                           🕘 711 hrs 42 mins
 🎮 Overwatch® 2                     🕘 153 hrs 59 mins
+🎮 Buckshot Roulette                🕘 0 hrs 29 mins
 🔫 Counter-Strike 2                 🕘 3864 hrs 19 mins
-🎮 VTube Studio                     🕘 222 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
