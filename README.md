@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 Project Zomboid                  🕘 47 hrs 52 mins
-🎮 VRChat                           🕘 712 hrs 21 mins
+🎮 VRChat                           🕘 712 hrs 23 mins
 🎮 Blender                          🕘 876 hrs 10 mins
 🎮 Buckshot Roulette                🕘 0 hrs 29 mins
 🎮 VTube Studio                     🕘 222 hrs 11 mins
