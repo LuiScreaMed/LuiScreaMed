@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 Project Zomboid                  🕘 51 hrs 33 mins
-🎮 VRChat                           🕘 720 hrs 50 mins
+🎮 VRChat                           🕘 721 hrs 20 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 223 hrs 3 mins
 🎮 Blender                          🕘 876 hrs 12 mins
 🎮 Overwatch® 2                     🕘 154 hrs 35 mins
