@@ -21,7 +21,7 @@
 ```text
 🎮 Project Zomboid                  🕘 54 hrs 32 mins
 🎮 VRChat                           🕘 721 hrs 45 mins
-🎮 PAYDAY 2                         🕘 615 hrs 50 mins
+🎮 PAYDAY 2                         🕘 616 hrs 40 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 223 hrs 3 mins
 🎮 Blender                          🕘 876 hrs 12 mins
 ```
