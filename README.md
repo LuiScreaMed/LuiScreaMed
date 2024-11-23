@@ -19,10 +19,10 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 739 hrs 53 mins
+🎮 VRChat                           🕘 740 hrs 23 mins
 🎮 PAYDAY 2                         🕘 623 hrs 35 mins
 🎮 Project Zomboid                  🕘 54 hrs 32 mins
-🎮 Blender                          🕘 881 hrs 49 mins
+🎮 Blender                          🕘 882 hrs 12 mins
 🎮 Overwatch® 2                     🕘 156 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
