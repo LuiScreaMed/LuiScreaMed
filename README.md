@@ -19,8 +19,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 743 hrs 57 mins
-🎮 PAYDAY 2                         🕘 623 hrs 35 mins
+🎮 VRChat                           🕘 744 hrs 24 mins
+🎮 PAYDAY 2                         🕘 624 hrs 1 mins
 🎮 Project Zomboid                  🕘 54 hrs 32 mins
 🎮 Blender                          🕘 882 hrs 17 mins
 🎮 Overwatch® 2                     🕘 156 hrs 8 mins
