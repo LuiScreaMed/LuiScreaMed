@@ -23,7 +23,7 @@
 🎮 PAYDAY 2                         🕘 624 hrs 34 mins
 🎮 Project Zomboid                  🕘 54 hrs 32 mins
 🎮 Blender                          🕘 882 hrs 17 mins
-🎮 Overwatch® 2                     🕘 156 hrs 8 mins
+🎮 Overwatch® 2                     🕘 156 hrs 38 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
