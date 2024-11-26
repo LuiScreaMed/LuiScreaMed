@@ -23,7 +23,7 @@
 🎮 PAYDAY 2                         🕘 625 hrs 5 mins
 🎮 Blender                          🕘 882 hrs 32 mins
 🎮 SteamVR                          🕘 514 hrs 35 mins
-🎮 OVR Advanced Settings            🕘 405 hrs 22 mins
+🎮 OVR Advanced Settings            🕘 405 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
