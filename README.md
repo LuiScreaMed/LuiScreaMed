@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 783 hrs 0 mins
-🎮 Blender                          🕘 902 hrs 5 mins
+🎮 Blender                          🕘 902 hrs 38 mins
 🎮 PAYDAY 2                         🕘 625 hrs 5 mins
 🎮 SteamVR                          🕘 523 hrs 24 mins
 🎮 OVR Advanced Settings            🕘 414 hrs 18 mins
