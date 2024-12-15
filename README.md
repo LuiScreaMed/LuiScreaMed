@@ -21,9 +21,9 @@
 ```text
 🎮 Blender                          🕘 992 hrs 18 mins
 🎮 VRChat                           🕘 823 hrs 37 mins
-🎮 SteamVR                          🕘 551 hrs 49 mins
-🎮 OVR Advanced Settings            🕘 442 hrs 38 mins
-🎮 Half-Life: Alyx                  🕘 13 hrs 47 mins
+🎮 SteamVR                          🕘 552 hrs 35 mins
+🎮 OVR Advanced Settings            🕘 443 hrs 24 mins
+🎮 Half-Life: Alyx                  🕘 14 hrs 18 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
