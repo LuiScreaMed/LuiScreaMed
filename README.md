@@ -22,7 +22,7 @@
 🎮 Blender                          🕘 1040 hrs 11 mins
 🎮 VRChat                           🕘 858 hrs 44 mins
 🎮 Ready or Not                     🕘 104 hrs 50 mins
-🎮 HELLDIVERS™ 2                    🕘 2 hrs 1 mins
+🎮 HELLDIVERS™ 2                    🕘 2 hrs 15 mins
 🔫 Counter-Strike 2                 🕘 3868 hrs 48 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
