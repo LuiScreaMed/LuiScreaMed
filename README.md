@@ -21,7 +21,7 @@
 ```text
 🎮 Blender                          🕘 1040 hrs 11 mins
 🎮 VRChat                           🕘 858 hrs 49 mins
-🎮 HELLDIVERS™ 2                    🕘 2 hrs 27 mins
+🎮 HELLDIVERS™ 2                    🕘 3 hrs 17 mins
 🎮 Ready or Not                     🕘 104 hrs 50 mins
 🔫 Counter-Strike 2                 🕘 3868 hrs 48 mins
 ```
