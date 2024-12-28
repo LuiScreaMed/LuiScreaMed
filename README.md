@@ -23,7 +23,7 @@
 🎮 VRChat                           🕘 858 hrs 44 mins
 🎮 Ready or Not                     🕘 104 hrs 50 mins
 🔫 Counter-Strike 2                 🕘 3868 hrs 48 mins
-🎮 SteamVR                          🕘 552 hrs 35 mins
+🎮 Sudoku Universe                  🕘 76 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
