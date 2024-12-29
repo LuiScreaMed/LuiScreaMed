@@ -20,10 +20,10 @@
 🎮 Recently played Steam games
 ```text
 🎮 Blender                          🕘 1040 hrs 11 mins
-🎮 VRChat                           🕘 858 hrs 49 mins
+🎮 VRChat                           🕘 859 hrs 19 mins
 🎮 HELLDIVERS™ 2                    🕘 7 hrs 1 mins
 🎮 Ready or Not                     🕘 104 hrs 50 mins
-🔫 Counter-Strike 2                 🕘 3868 hrs 48 mins
+🎮 Sudoku Universe                  🕘 77 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
