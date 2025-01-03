@@ -21,9 +21,9 @@
 ```text
 🎮 VRChat                           🕘 880 hrs 0 mins
 🎮 HELLDIVERS™ 2                    🕘 24 hrs 0 mins
-🎮 Blender                          🕘 1040 hrs 11 mins
 🎮 OVR Advanced Settings            🕘 446 hrs 15 mins
 🎮 SteamVR                          🕘 555 hrs 27 mins
+🎮 Blender                          🕘 1040 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
