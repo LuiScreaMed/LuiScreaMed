@@ -21,7 +21,7 @@
 ```text
 🎮 VRChat                           🕘 907 hrs 59 mins
 🎮 HELLDIVERS™ 2                    🕘 31 hrs 46 mins
-🎮 Blender                          🕘 1067 hrs 45 mins
+🎮 Blender                          🕘 1068 hrs 45 mins
 🎮 SteamVR                          🕘 560 hrs 23 mins
 🎮 OVR Advanced Settings            🕘 451 hrs 11 mins
 ```
