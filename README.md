@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 922 hrs 43 mins
+🎮 VRChat                           🕘 923 hrs 14 mins
 🎮 Blender                          🕘 1082 hrs 50 mins
 🎮 HELLDIVERS™ 2                    🕘 36 hrs 55 mins
 🎮 SteamVR                          🕘 560 hrs 23 mins
