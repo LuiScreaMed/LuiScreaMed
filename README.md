@@ -19,11 +19,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 969 hrs 11 mins
+🎮 VRChat                           🕘 969 hrs 57 mins
 🎮 Blender                          🕘 1111 hrs 43 mins
 🎮 HELLDIVERS™ 2                    🕘 55 hrs 33 mins
 🎮 Draw Puzzle                      🕘 28 hrs 59 mins
-🎮 SteamVR                          🕘 564 hrs 29 mins
+🎮 SteamVR                          🕘 565 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
