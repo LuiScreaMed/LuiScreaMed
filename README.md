@@ -20,9 +20,9 @@
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 969 hrs 57 mins
-🎮 Blender                          🕘 1111 hrs 43 mins
+🎮 Blender                          🕘 1112 hrs 13 mins
 🎮 HELLDIVERS™ 2                    🕘 55 hrs 33 mins
-🎮 Draw Puzzle                      🕘 28 hrs 59 mins
+🎮 Draw Puzzle                      🕘 29 hrs 24 mins
 🎮 SteamVR                          🕘 565 hrs 17 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
