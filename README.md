@@ -23,7 +23,7 @@
 🎮 Blender                          🕘 1117 hrs 8 mins
 🎮 HELLDIVERS™ 2                    🕘 59 hrs 17 mins
 🎮 Draw Puzzle                      🕘 29 hrs 41 mins
-🎮 SteamVR                          🕘 565 hrs 35 mins
+🎮 Squad                            🕘 155 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
