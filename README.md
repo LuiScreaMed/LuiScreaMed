@@ -21,7 +21,7 @@
 ```text
 🎮 Blender                          🕘 1138 hrs 27 mins
 🎮 VRChat                           🕘 991 hrs 57 mins
-🎮 HELLDIVERS™ 2                    🕘 63 hrs 49 mins
+🎮 HELLDIVERS™ 2                    🕘 64 hrs 40 mins
 🎮 Squad                            🕘 155 hrs 44 mins
 🎮 Draw Puzzle                      🕘 29 hrs 41 mins
 ```
