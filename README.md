@@ -22,7 +22,7 @@
 🎮 VRChat                           🕘 1067 hrs 23 mins
 🎮 Blender                          🕘 1165 hrs 15 mins
 🎮 HELLDIVERS™ 2                    🕘 88 hrs 53 mins
-🎮 Draw Puzzle                      🕘 31 hrs 57 mins
+🎮 Draw Puzzle                      🕘 32 hrs 4 mins
 🎮 SteamVR                          🕘 573 hrs 8 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
