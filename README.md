@@ -21,7 +21,7 @@
 ```text
 🎮 VRChat                           🕘 1082 hrs 41 mins
 🎮 Grand Theft Auto V Enhanced      🕘 7 hrs 34 mins
-🎮 Draw Puzzle                      🕘 32 hrs 44 mins
+🎮 Draw Puzzle                      🕘 33 hrs 0 mins
 🎮 HELLDIVERS™ 2                    🕘 88 hrs 53 mins
 🎮 SteamVR                          🕘 573 hrs 8 mins
 ```
