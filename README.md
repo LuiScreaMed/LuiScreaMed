@@ -23,7 +23,7 @@
 🎮 Grand Theft Auto V Enhanced      🕘 11 hrs 58 mins
 🎮 Draw Puzzle                      🕘 33 hrs 34 mins
 🎮 HELLDIVERS™ 2                    🕘 88 hrs 54 mins
-🎮 Euro Truck Simulator 2           🕘 237 hrs 42 mins
+🎮 Escape Simulator                 🕘 58 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
