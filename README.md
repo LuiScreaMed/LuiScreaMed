@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 1084 hrs 26 mins
-🎮 Grand Theft Auto V Enhanced      🕘 12 hrs 49 mins
+🎮 Grand Theft Auto V Enhanced      🕘 13 hrs 49 mins
 🎮 Draw Puzzle                      🕘 33 hrs 34 mins
 🎮 HELLDIVERS™ 2                    🕘 88 hrs 54 mins
 🎮 Escape Simulator                 🕘 58 hrs 24 mins
