@@ -21,7 +21,7 @@
 ```text
 🎮 VRChat                           🕘 1084 hrs 47 mins
 🎮 Grand Theft Auto V Enhanced      🕘 14 hrs 2 mins
-🎮 Draw Puzzle                      🕘 33 hrs 34 mins
+🎮 Draw Puzzle                      🕘 33 hrs 39 mins
 🎮 Escape Simulator                 🕘 58 hrs 24 mins
 🎮 Euro Truck Simulator 2           🕘 237 hrs 42 mins
 ```
