@@ -22,8 +22,8 @@
 🎮 VRChat                           🕘 1088 hrs 12 mins
 🎮 Grand Theft Auto V Enhanced      🕘 17 hrs 49 mins
 🎮 Draw Puzzle                      🕘 33 hrs 49 mins
+🎮 HELLDIVERS™ 2                    🕘 89 hrs 36 mins
 🎮 Escape Simulator                 🕘 58 hrs 24 mins
-🎮 HELLDIVERS™ 2                    🕘 89 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
