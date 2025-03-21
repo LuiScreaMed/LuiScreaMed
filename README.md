@@ -19,11 +19,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1100 hrs 51 mins
+🎮 VRChat                           🕘 1101 hrs 21 mins
 🎮 Grand Theft Auto V Enhanced      🕘 20 hrs 15 mins
 🎮 HELLDIVERS™ 2                    🕘 94 hrs 58 mins
-🎮 Draw Puzzle                      🕘 34 hrs 0 mins
 🎮 SteamVR                          🕘 574 hrs 20 mins
+🎮 OVR Advanced Settings            🕘 465 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
