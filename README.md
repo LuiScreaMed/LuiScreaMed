@@ -21,7 +21,7 @@
 ```text
 🎮 VRChat                           🕘 1101 hrs 57 mins
 🎮 Grand Theft Auto V Enhanced      🕘 20 hrs 15 mins
-🎮 HELLDIVERS™ 2                    🕘 95 hrs 28 mins
+🎮 HELLDIVERS™ 2                    🕘 96 hrs 21 mins
 🎮 SteamVR                          🕘 574 hrs 20 mins
 🎮 OVR Advanced Settings            🕘 465 hrs 1 mins
 ```
