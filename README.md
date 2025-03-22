@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1102 hrs 27 mins
+🎮 VRChat                           🕘 1103 hrs 12 mins
 🎮 Grand Theft Auto V Enhanced      🕘 20 hrs 15 mins
 🎮 HELLDIVERS™ 2                    🕘 96 hrs 21 mins
 🎮 Blender                          🕘 1168 hrs 24 mins
