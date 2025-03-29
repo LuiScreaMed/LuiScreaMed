@@ -23,7 +23,7 @@
 🎮 HELLDIVERS™ 2                    🕘 96 hrs 21 mins
 🎮 Blender                          🕘 1168 hrs 24 mins
 🎮 Grand Theft Auto V Enhanced      🕘 20 hrs 15 mins
-🎮 SteamVR                          🕘 574 hrs 20 mins
+🎮 Escape Simulator                 🕘 59 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
