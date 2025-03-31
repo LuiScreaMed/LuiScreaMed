@@ -22,7 +22,7 @@
 🎮 VRChat                           🕘 1110 hrs 3 mins
 🎮 HELLDIVERS™ 2                    🕘 96 hrs 21 mins
 🎮 Blender                          🕘 1168 hrs 24 mins
-🎮 Risk of Rain 2                   🕘 32 hrs 59 mins
+🎮 Risk of Rain 2                   🕘 33 hrs 33 mins
 🎮 Draw Puzzle                      🕘 34 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
