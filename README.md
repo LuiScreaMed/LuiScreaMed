@@ -23,7 +23,7 @@
 🎮 Blender                          🕘 1174 hrs 15 mins
 🎮 HELLDIVERS™ 2                    🕘 96 hrs 21 mins
 🎮 Risk of Rain 2                   🕘 33 hrs 33 mins
-🔫 Counter-Strike 2                 🕘 3870 hrs 56 mins
+🎮 Overwatch® 2                     🕘 160 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
