@@ -22,8 +22,8 @@
 🎮 VRChat                           🕘 1117 hrs 16 mins
 🎮 Blender                          🕘 1174 hrs 15 mins
 🎮 HELLDIVERS™ 2                    🕘 96 hrs 21 mins
+🎮 Overwatch® 2                     🕘 161 hrs 28 mins
 🎮 Risk of Rain 2                   🕘 33 hrs 33 mins
-🎮 Overwatch® 2                     🕘 160 hrs 58 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
