@@ -23,7 +23,7 @@
 🎮 Blender                          🕘 1174 hrs 15 mins
 🎮 Overwatch® 2                     🕘 162 hrs 49 mins
 🎮 Risk of Rain 2                   🕘 33 hrs 33 mins
-🔫 Counter-Strike 2                 🕘 3870 hrs 56 mins
+🎮 Lossless Scaling                 🕘 1 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
