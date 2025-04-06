@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 1120 hrs 22 mins
-🎮 Lossless Scaling                 🕘 6 hrs 55 mins
+🎮 Lossless Scaling                 🕘 8 hrs 0 mins
 🎮 Blender                          🕘 1174 hrs 15 mins
 🎮 Overwatch® 2                     🕘 162 hrs 51 mins
 🎮 Risk of Rain 2                   🕘 33 hrs 33 mins
