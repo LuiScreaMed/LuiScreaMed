@@ -21,8 +21,8 @@
 ```text
 🎮 VRChat                           🕘 1120 hrs 22 mins
 🎮 Blender                          🕘 1174 hrs 15 mins
+🎮 Lossless Scaling                 🕘 4 hrs 23 mins
 🎮 Overwatch® 2                     🕘 162 hrs 51 mins
-🎮 Lossless Scaling                 🕘 2 hrs 53 mins
 🎮 Risk of Rain 2                   🕘 33 hrs 33 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
