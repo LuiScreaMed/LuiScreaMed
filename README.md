@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 Lossless Scaling                 🕘 58 hrs 28 mins
-🎮 VRChat                           🕘 1127 hrs 32 mins
+🎮 VRChat                           🕘 1128 hrs 31 mins
 🎮 Blender                          🕘 1174 hrs 19 mins
 🎮 SteamVR                          🕘 578 hrs 23 mins
 🎮 OVR Advanced Settings            🕘 469 hrs 2 mins
