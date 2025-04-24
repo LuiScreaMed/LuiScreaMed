@@ -21,7 +21,7 @@
 ```text
 🎮 Lossless Scaling                 🕘 66 hrs 58 mins
 🎮 VRChat                           🕘 1153 hrs 18 mins
-🎮 Overwatch® 2                     🕘 170 hrs 53 mins
+🎮 Overwatch® 2                     🕘 171 hrs 23 mins
 🎮 SteamVR                          🕘 580 hrs 55 mins
 🎮 OVR Advanced Settings            🕘 471 hrs 33 mins
 ```
