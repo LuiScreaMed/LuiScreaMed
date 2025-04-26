@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1158 hrs 42 mins
+🎮 VRChat                           🕘 1158 hrs 58 mins
 🎮 Lossless Scaling                 🕘 66 hrs 58 mins
 🎮 Overwatch® 2                     🕘 174 hrs 14 mins
 🎮 SteamVR                          🕘 580 hrs 55 mins
