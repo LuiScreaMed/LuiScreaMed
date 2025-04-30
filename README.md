@@ -23,7 +23,7 @@
 🎮 Overwatch® 2                     🕘 175 hrs 5 mins
 🎮 OVR Advanced Settings            🕘 473 hrs 37 mins
 🎮 SteamVR                          🕘 582 hrs 59 mins
-🎮 Blender                          🕘 1174 hrs 52 mins
+🔫 Counter-Strike 2                 🕘 3871 hrs 53 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
