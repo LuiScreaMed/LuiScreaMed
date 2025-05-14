@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 Blender                          🕘 1247 hrs 28 mins
-🎮 VRChat                           🕘 1203 hrs 8 mins
+🎮 VRChat                           🕘 1203 hrs 42 mins
 🎮 Overwatch® 2                     🕘 198 hrs 35 mins
 🎮 Portal 2                         🕘 18 hrs 46 mins
 🎮 TrackMania² Canyon               🕘 17 hrs 58 mins
