@@ -23,7 +23,7 @@
 🎮 VRChat                           🕘 1206 hrs 41 mins
 🎮 Overwatch® 2                     🕘 204 hrs 6 mins
 🎮 TrackMania² Canyon               🕘 19 hrs 53 mins
-🎮 OVR Advanced Settings            🕘 476 hrs 3 mins
+🎮 Portal 2                         🕘 19 hrs 28 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
