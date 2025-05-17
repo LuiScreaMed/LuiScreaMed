@@ -21,7 +21,7 @@
 ```text
 🎮 Blender                          🕘 1250 hrs 16 mins
 🎮 VRChat                           🕘 1207 hrs 36 mins
-🎮 Overwatch® 2                     🕘 205 hrs 37 mins
+🎮 Overwatch® 2                     🕘 206 hrs 37 mins
 🎮 TrackMania² Canyon               🕘 19 hrs 53 mins
 🎮 HELLDIVERS™ 2                    🕘 98 hrs 31 mins
 ```
