@@ -22,7 +22,7 @@
 🎮 Blender                          🕘 1250 hrs 12 mins
 🎮 VRChat                           🕘 1206 hrs 41 mins
 🎮 Overwatch® 2                     🕘 204 hrs 6 mins
-🎮 TrackMania² Canyon               🕘 19 hrs 25 mins
+🎮 TrackMania² Canyon               🕘 19 hrs 53 mins
 🎮 OVR Advanced Settings            🕘 476 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
