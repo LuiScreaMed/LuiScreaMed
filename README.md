@@ -20,10 +20,10 @@
 🎮 Recently played Steam games
 ```text
 🎮 Blender                          🕘 1250 hrs 16 mins
-🎮 VRChat                           🕘 1209 hrs 22 mins
+🎮 VRChat                           🕘 1210 hrs 11 mins
 🎮 Overwatch® 2                     🕘 207 hrs 30 mins
 🎮 TrackMania² Canyon               🕘 19 hrs 53 mins
-🎮 HELLDIVERS™ 2                    🕘 98 hrs 31 mins
+🎮 HELLDIVERS™ 2                    🕘 98 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
