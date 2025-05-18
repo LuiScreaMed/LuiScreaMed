@@ -22,8 +22,8 @@
 🎮 Blender                          🕘 1250 hrs 16 mins
 🎮 VRChat                           🕘 1210 hrs 11 mins
 🎮 Overwatch® 2                     🕘 207 hrs 30 mins
+🎮 HELLDIVERS™ 2                    🕘 99 hrs 56 mins
 🎮 TrackMania² Canyon               🕘 19 hrs 53 mins
-🎮 HELLDIVERS™ 2                    🕘 98 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
