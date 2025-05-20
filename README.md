@@ -22,7 +22,7 @@
 🎮 Blender                          🕘 1262 hrs 1 mins
 🎮 VRChat                           🕘 1222 hrs 6 mins
 🎮 Overwatch® 2                     🕘 211 hrs 5 mins
-🎮 HELLDIVERS™ 2                    🕘 101 hrs 26 mins
+🎮 HELLDIVERS™ 2                    🕘 102 hrs 26 mins
 🎮 SteamVR                          🕘 587 hrs 56 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
