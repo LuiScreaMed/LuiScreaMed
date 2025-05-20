@@ -23,7 +23,7 @@
 🎮 VRChat                           🕘 1222 hrs 6 mins
 🎮 Overwatch® 2                     🕘 211 hrs 5 mins
 🎮 HELLDIVERS™ 2                    🕘 99 hrs 56 mins
-🎮 TrackMania² Canyon               🕘 20 hrs 21 mins
+🎮 SteamVR                          🕘 586 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
