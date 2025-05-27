@@ -21,7 +21,7 @@
 ```text
 🎮 Blender                          🕘 1317 hrs 16 mins
 🎮 VRChat                           🕘 1256 hrs 16 mins
-🎮 Overwatch® 2                     🕘 223 hrs 25 mins
+🎮 Overwatch® 2                     🕘 224 hrs 51 mins
 🎮 HELLDIVERS™ 2                    🕘 102 hrs 39 mins
 🎮 SteamVR                          🕘 588 hrs 51 mins
 ```
