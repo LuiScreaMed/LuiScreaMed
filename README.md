@@ -19,11 +19,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 1380 hrs 34 mins
+🎮 Blender                          🕘 1381 hrs 34 mins
 🎮 VRChat                           🕘 1265 hrs 10 mins
 🎮 Overwatch® 2                     🕘 230 hrs 19 mins
 🎮 Escape Simulator                 🕘 60 hrs 36 mins
-🎮 HELLDIVERS™ 2                    🕘 102 hrs 39 mins
+🎮 SteamVR                          🕘 588 hrs 51 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
