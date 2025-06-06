@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 1424 hrs 29 mins
+🎮 Blender                          🕘 1425 hrs 29 mins
 🎮 VRChat                           🕘 1279 hrs 4 mins
 🎮 Overwatch® 2                     🕘 233 hrs 39 mins
 🎮 Escape Simulator                 🕘 60 hrs 44 mins
