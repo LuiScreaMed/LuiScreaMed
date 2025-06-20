@@ -23,6 +23,7 @@
 🎮 VRChat                           🕘 1307 hrs 34 mins
 🎮 OVR Advanced Settings            🕘 483 hrs 3 mins
 🎮 SteamVR                          🕘 592 hrs 29 mins
+🎮 gogh: Focus with Your Avatar     🕘 0 hrs 30 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
