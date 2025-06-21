@@ -19,10 +19,10 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 1547 hrs 58 mins
-🎮 VRChat                           🕘 1307 hrs 59 mins
-🎮 SteamVR                          🕘 593 hrs 7 mins
-🎮 OVR Advanced Settings            🕘 483 hrs 40 mins
+🎮 Blender                          🕘 1548 hrs 28 mins
+🎮 VRChat                           🕘 1309 hrs 4 mins
+🎮 SteamVR                          🕘 594 hrs 12 mins
+🎮 OVR Advanced Settings            🕘 484 hrs 46 mins
 🎮 gogh: Focus with Your Avatar     🕘 1 hrs 11 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
