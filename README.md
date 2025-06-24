@@ -21,9 +21,9 @@
 ```text
 🎮 Blender                          🕘 1568 hrs 18 mins
 🎮 VRChat                           🕘 1327 hrs 18 mins
+🎮 theHunter: Call of the Wild™     🕘 12 hrs 5 mins
 🎮 SteamVR                          🕘 599 hrs 36 mins
 🎮 OVR Advanced Settings            🕘 490 hrs 9 mins
-🎮 theHunter: Call of the Wild™     🕘 11 hrs 20 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
