@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 1576 hrs 58 mins
+🎮 Blender                          🕘 1577 hrs 49 mins
 🎮 VRChat                           🕘 1332 hrs 50 mins
 🎮 theHunter: Call of the Wild™     🕘 15 hrs 8 mins
 🎮 SteamVR                          🕘 599 hrs 36 mins
