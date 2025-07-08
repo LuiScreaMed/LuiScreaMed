@@ -22,7 +22,7 @@
 🎮 VRChat                           🕘 1370 hrs 52 mins
 🎮 Blender                          🕘 1610 hrs 30 mins
 🎮 theHunter: Call of the Wild™     🕘 34 hrs 24 mins
-🎮 Overwatch® 2                     🕘 250 hrs 43 mins
+🎮 Overwatch® 2                     🕘 252 hrs 13 mins
 🎮 SteamVR                          🕘 604 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
