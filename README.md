@@ -19,8 +19,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1380 hrs 44 mins
-🎮 Overwatch® 2                     🕘 257 hrs 55 mins
+🎮 VRChat                           🕘 1381 hrs 1 mins
+🎮 Overwatch® 2                     🕘 258 hrs 25 mins
 🎮 theHunter: Call of the Wild™     🕘 36 hrs 41 mins
 🎮 SteamVR                          🕘 606 hrs 31 mins
 🎮 OVR Advanced Settings            🕘 497 hrs 2 mins
