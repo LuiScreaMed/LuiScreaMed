@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 1441 hrs 26 mins
-🎮 Blender                          🕘 1661 hrs 48 mins
+🎮 Blender                          🕘 1662 hrs 49 mins
 🎮 Risk of Rain 2                   🕘 57 hrs 47 mins
 🎮 SteamVR                          🕘 611 hrs 59 mins
 🎮 OVR Advanced Settings            🕘 502 hrs 29 mins
