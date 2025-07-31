@@ -19,11 +19,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1460 hrs 3 mins
+🎮 VRChat                           🕘 1460 hrs 19 mins
 🎮 Blender                          🕘 1689 hrs 52 mins
-🎮 Risk of Rain 2                   🕘 63 hrs 35 mins
+🎮 Risk of Rain 2                   🕘 64 hrs 16 mins
+🎮 theHunter: Call of the Wild™     🕘 40 hrs 14 mins
 🎮 SteamVR                          🕘 614 hrs 47 mins
-🎮 OVR Advanced Settings            🕘 505 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
