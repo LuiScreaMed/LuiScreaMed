@@ -21,7 +21,7 @@
 ```text
 🎮 VRChat                           🕘 1473 hrs 8 mins
 🎮 Blender                          🕘 1689 hrs 52 mins
-🎮 Risk of Rain 2                   🕘 69 hrs 15 mins
+🎮 Risk of Rain 2                   🕘 70 hrs 15 mins
 🎮 theHunter: Call of the Wild™     🕘 41 hrs 12 mins
 🎮 SteamVR                          🕘 614 hrs 47 mins
 ```
