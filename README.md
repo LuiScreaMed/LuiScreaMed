@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 1477 hrs 44 mins
-🎮 Blender                          🕘 1691 hrs 53 mins
+🎮 Blender                          🕘 1692 hrs 23 mins
 🎮 Risk of Rain 2                   🕘 72 hrs 12 mins
 🎮 theHunter: Call of the Wild™     🕘 41 hrs 12 mins
 🎮 SteamVR                          🕘 614 hrs 47 mins
