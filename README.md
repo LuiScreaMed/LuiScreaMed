@@ -22,8 +22,8 @@
 🎮 VRChat                           🕘 1477 hrs 52 mins
 🎮 Blender                          🕘 1692 hrs 23 mins
 🎮 Risk of Rain 2                   🕘 72 hrs 12 mins
+🎮 Battlefield™ 6 Open Beta         🕘 4 hrs 44 mins
 🎮 SteamVR                          🕘 614 hrs 47 mins
-🎮 OVR Advanced Settings            🕘 505 hrs 16 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
