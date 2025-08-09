@@ -21,7 +21,7 @@
 ```text
 🎮 VRChat                           🕘 1477 hrs 58 mins
 🎮 Blender                          🕘 1696 hrs 35 mins
-🎮 Battlefield™ 6 Open Beta         🕘 15 hrs 52 mins
+🎮 Battlefield™ 6 Open Beta         🕘 17 hrs 23 mins
 🎮 Risk of Rain 2                   🕘 73 hrs 24 mins
 🎮 SteamVR                          🕘 614 hrs 47 mins
 ```
