@@ -19,10 +19,10 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1483 hrs 58 mins
+🎮 VRChat                           🕘 1484 hrs 13 mins
 🎮 Battlefield™ 6 Open Beta         🕘 28 hrs 49 mins
 🎮 Risk of Rain 2                   🕘 73 hrs 24 mins
-🎮 Blender                          🕘 1701 hrs 19 mins
+🎮 Blender                          🕘 1701 hrs 50 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 231 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
