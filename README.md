@@ -21,7 +21,7 @@
 ```text
 🎮 Battlefield™ 6 Open Beta         🕘 31 hrs 21 mins
 🎮 VRChat                           🕘 1487 hrs 44 mins
-🎮 Blender                          🕘 1703 hrs 59 mins
+🎮 Blender                          🕘 1704 hrs 27 mins
 🎮 Risk of Rain 2                   🕘 73 hrs 24 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 231 hrs 12 mins
 ```
