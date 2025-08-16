@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 Battlefield™ 6 Open Beta         🕘 39 hrs 13 mins
-🎮 VRChat                           🕘 1490 hrs 8 mins
+🎮 VRChat                           🕘 1491 hrs 23 mins
 🎮 Blender                          🕘 1706 hrs 8 mins
 🎮 Risk of Rain 2                   🕘 73 hrs 24 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 231 hrs 12 mins
