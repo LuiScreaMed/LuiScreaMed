@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Battlefield™ 6 Open Beta         🕘 48 hrs 26 mins
+🎮 Battlefield™ 6 Open Beta         🕘 49 hrs 26 mins
 🎮 VRChat                           🕘 1492 hrs 29 mins
 🎮 Blender                          🕘 1706 hrs 8 mins
 🎮 PAYDAY 3                         🕘 1 hrs 11 mins
