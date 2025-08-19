@@ -22,8 +22,8 @@
 🎮 Battlefield™ 6 Open Beta         🕘 49 hrs 49 mins
 🎮 Blender                          🕘 1706 hrs 8 mins
 🎮 VRChat                           🕘 1492 hrs 57 mins
+🎮 Overwatch® 2                     🕘 264 hrs 7 mins
 🎮 PAYDAY 3                         🕘 1 hrs 11 mins
-🎮 Risk of Rain 2                   🕘 73 hrs 24 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
