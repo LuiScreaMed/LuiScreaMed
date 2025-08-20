@@ -23,7 +23,7 @@
 🎮 VRChat                           🕘 1496 hrs 0 mins
 🎮 Blender                          🕘 1706 hrs 8 mins
 🎮 Overwatch® 2                     🕘 264 hrs 59 mins
-🎮 PAYDAY 3                         🕘 1 hrs 11 mins
+🎮 Strinova                         🕘 1 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
