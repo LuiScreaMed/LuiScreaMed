@@ -22,8 +22,8 @@
 🎮 Battlefield™ 6 Open Beta         🕘 49 hrs 49 mins
 🎮 VRChat                           🕘 1496 hrs 0 mins
 🎮 Blender                          🕘 1706 hrs 8 mins
-🎮 Overwatch® 2                     🕘 266 hrs 0 mins
-🔫 Counter-Strike 2                 🕘 3874 hrs 31 mins
+🎮 Overwatch® 2                     🕘 266 hrs 49 mins
+🎮 Strinova                         🕘 2 hrs 55 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
