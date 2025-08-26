@@ -19,9 +19,9 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1523 hrs 59 mins
+🎮 VRChat                           🕘 1524 hrs 42 mins
 🎮 Battlefield™ 6 Open Beta         🕘 49 hrs 49 mins
-🎮 Strinova                         🕘 10 hrs 11 mins
+🎮 Strinova                         🕘 11 hrs 2 mins
 🎮 Blender                          🕘 1706 hrs 15 mins
 🎮 Overwatch® 2                     🕘 266 hrs 49 mins
 ```
