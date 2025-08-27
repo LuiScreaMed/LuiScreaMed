@@ -21,7 +21,7 @@
 ```text
 🎮 VRChat                           🕘 1525 hrs 50 mins
 🎮 Battlefield™ 6 Open Beta         🕘 49 hrs 49 mins
-🎮 Strinova                         🕘 11 hrs 32 mins
+🎮 Strinova                         🕘 12 hrs 32 mins
 🎮 Blender                          🕘 1708 hrs 10 mins
 🎮 Overwatch® 2                     🕘 266 hrs 49 mins
 ```
