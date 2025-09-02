@@ -19,10 +19,10 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1552 hrs 8 mins
-🎮 Strinova                         🕘 25 hrs 36 mins
+🎮 VRChat                           🕘 1553 hrs 8 mins
+🎮 Strinova                         🕘 26 hrs 37 mins
 🎮 Overwatch® 2                     🕘 268 hrs 13 mins
-🎮 Blender                          🕘 1708 hrs 41 mins
+🎮 Blender                          🕘 1708 hrs 50 mins
 🔫 Counter-Strike 2                 🕘 3874 hrs 32 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
