@@ -21,7 +21,7 @@
 ```text
 🎮 VRChat                           🕘 1553 hrs 8 mins
 🎮 Strinova                         🕘 29 hrs 36 mins
-🎮 Blender                          🕘 1713 hrs 46 mins
+🎮 Blender                          🕘 1714 hrs 47 mins
 🎮 Overwatch® 2                     🕘 268 hrs 13 mins
 🔫 Counter-Strike 2                 🕘 3875 hrs 2 mins
 ```
