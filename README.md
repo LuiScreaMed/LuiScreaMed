@@ -23,7 +23,7 @@
 🎮 Strinova                         🕘 29 hrs 36 mins
 🎮 Blender                          🕘 1721 hrs 4 mins
 🎮 Overwatch® 2                     🕘 268 hrs 13 mins
-🔫 Counter-Strike 2                 🕘 3875 hrs 2 mins
+🎮 OVR Advanced Settings            🕘 506 hrs 0 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
