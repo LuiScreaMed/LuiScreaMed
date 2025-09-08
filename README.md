@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 1555 hrs 26 mins
-🎮 Strinova                         🕘 32 hrs 33 mins
+🎮 Strinova                         🕘 33 hrs 29 mins
 🎮 Blender                          🕘 1722 hrs 57 mins
 🎮 Overwatch® 2                     🕘 268 hrs 13 mins
 🎮 OVR Advanced Settings            🕘 506 hrs 0 mins
