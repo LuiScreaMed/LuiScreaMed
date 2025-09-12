@@ -19,8 +19,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 1734 hrs 39 mins
-🎮 VRChat                           🕘 1559 hrs 3 mins
+🎮 Blender                          🕘 1735 hrs 9 mins
+🎮 VRChat                           🕘 1559 hrs 33 mins
 🎮 Strinova                         🕘 34 hrs 35 mins
 🎮 7 Days to Die                    🕘 79 hrs 54 mins
 🎮 Overwatch® 2                     🕘 268 hrs 13 mins
