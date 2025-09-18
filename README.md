@@ -22,8 +22,8 @@
 🎮 Blender                          🕘 1782 hrs 52 mins
 🎮 7 Days to Die                    🕘 102 hrs 18 mins
 🎮 VRChat                           🕘 1578 hrs 18 mins
-🎮 Strinova                         🕘 37 hrs 32 mins
-🎮 Sudoku Universe                  🕘 80 hrs 1 mins
+🎮 Strinova                         🕘 38 hrs 3 mins
+🎮 Sudoku Universe                  🕘 80 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
