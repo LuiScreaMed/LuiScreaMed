@@ -23,7 +23,7 @@
 🎮 7 Days to Die                    🕘 104 hrs 26 mins
 🎮 VRChat                           🕘 1578 hrs 44 mins
 🎮 Strinova                         🕘 39 hrs 6 mins
-🎮 Sudoku Universe                  🕘 80 hrs 9 mins
+🎮 Sudoku Universe                  🕘 80 hrs 19 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
