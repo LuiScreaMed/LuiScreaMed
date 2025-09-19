@@ -21,7 +21,7 @@
 ```text
 🎮 Blender                          🕘 1783 hrs 39 mins
 🎮 7 Days to Die                    🕘 104 hrs 26 mins
-🎮 VRChat                           🕘 1579 hrs 45 mins
+🎮 VRChat                           🕘 1580 hrs 40 mins
 🎮 Strinova                         🕘 39 hrs 6 mins
 🎮 Sudoku Universe                  🕘 80 hrs 19 mins
 ```
