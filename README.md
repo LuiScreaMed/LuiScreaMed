@@ -23,7 +23,7 @@
 🎮 7 Days to Die                    🕘 111 hrs 35 mins
 🎮 VRChat                           🕘 1583 hrs 8 mins
 🎮 Strinova                         🕘 43 hrs 29 mins
-🎮 OVR Advanced Settings            🕘 508 hrs 12 mins
+🎮 SteamVR                          🕘 618 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
