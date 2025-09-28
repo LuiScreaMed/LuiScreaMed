@@ -22,7 +22,7 @@
 🎮 Blender                          🕘 1783 hrs 39 mins
 🎮 VRChat                           🕘 1594 hrs 59 mins
 🎮 7 Days to Die                    🕘 112 hrs 14 mins
-🎮 Strinova                         🕘 43 hrs 29 mins
+🎮 Strinova                         🕘 44 hrs 0 mins
 🎮 SteamVR                          🕘 618 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
