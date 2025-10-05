@@ -22,8 +22,8 @@
 🎮 VRChat                           🕘 1630 hrs 40 mins
 🎮 Strinova                         🕘 46 hrs 12 mins
 🎮 7 Days to Die                    🕘 112 hrs 14 mins
-🎮 Sudoku Universe                  🕘 83 hrs 7 mins
-🎮 SteamVR                          🕘 619 hrs 57 mins
+🎮 SteamVR                          🕘 620 hrs 55 mins
+🎮 OVR Advanced Settings            🕘 511 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
