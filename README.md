@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1631 hrs 29 mins
+🎮 VRChat                           🕘 1632 hrs 56 mins
 🎮 Strinova                         🕘 46 hrs 12 mins
 🎮 SteamVR                          🕘 620 hrs 55 mins
 🎮 OVR Advanced Settings            🕘 511 hrs 21 mins
