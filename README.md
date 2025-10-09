@@ -19,9 +19,9 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1655 hrs 39 mins
+🎮 VRChat                           🕘 1656 hrs 9 mins
 🎮 Sudoku Universe                  🕘 84 hrs 32 mins
-🎮 Strinova                         🕘 46 hrs 42 mins
+🎮 Strinova                         🕘 47 hrs 10 mins
 🎮 SteamVR                          🕘 620 hrs 55 mins
 🎮 OVR Advanced Settings            🕘 511 hrs 21 mins
 ```
