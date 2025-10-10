@@ -22,8 +22,8 @@
 🎮 VRChat                           🕘 1659 hrs 43 mins
 🎮 Strinova                         🕘 47 hrs 10 mins
 🎮 Sudoku Universe                  🕘 84 hrs 45 mins
+🎮 Battlefield™ 6                   🕘 3 hrs 6 mins
 🎮 SteamVR                          🕘 620 hrs 55 mins
-🎮 OVR Advanced Settings            🕘 511 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
