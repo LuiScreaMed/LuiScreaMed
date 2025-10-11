@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 1659 hrs 43 mins
-🎮 Battlefield™ 6                   🕘 6 hrs 52 mins
+🎮 Battlefield™ 6                   🕘 7 hrs 52 mins
 🎮 Strinova                         🕘 47 hrs 10 mins
 🎮 Sudoku Universe                  🕘 84 hrs 45 mins
 🎮 SteamVR                          🕘 620 hrs 55 mins
