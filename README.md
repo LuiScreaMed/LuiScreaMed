@@ -21,7 +21,7 @@
 ```text
 🎮 VRChat                           🕘 1661 hrs 50 mins
 🎮 Battlefield™ 6                   🕘 15 hrs 25 mins
-🎮 Blender                          🕘 1788 hrs 35 mins
+🎮 Blender                          🕘 1788 hrs 39 mins
 🎮 Sudoku Universe                  🕘 84 hrs 50 mins
 🎮 Strinova                         🕘 47 hrs 10 mins
 ```
