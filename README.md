@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1661 hrs 50 mins
+🎮 VRChat                           🕘 1662 hrs 47 mins
 🎮 Battlefield™ 6                   🕘 15 hrs 25 mins
 🎮 Blender                          🕘 1788 hrs 39 mins
 🎮 Sudoku Universe                  🕘 84 hrs 50 mins
