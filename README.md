@@ -19,11 +19,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1663 hrs 49 mins
+🎮 VRChat                           🕘 1664 hrs 29 mins
 🎮 Battlefield™ 6                   🕘 16 hrs 37 mins
 🎮 Blender                          🕘 1792 hrs 35 mins
-🎮 SteamVR                          🕘 623 hrs 6 mins
-🎮 OVR Advanced Settings            🕘 513 hrs 30 mins
+🎮 SteamVR                          🕘 623 hrs 45 mins
+🎮 OVR Advanced Settings            🕘 514 hrs 9 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
