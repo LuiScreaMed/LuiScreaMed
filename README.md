@@ -23,7 +23,7 @@
 🎮 Battlefield™ 6                   🕘 16 hrs 37 mins
 🎮 Blender                          🕘 1792 hrs 35 mins
 🎮 Sudoku Universe                  🕘 84 hrs 50 mins
-🎮 Strinova                         🕘 47 hrs 10 mins
+🎮 SteamVR                          🕘 622 hrs 6 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
