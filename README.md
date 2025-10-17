@@ -21,7 +21,7 @@
 ```text
 🎮 VRChat                           🕘 1664 hrs 29 mins
 🎮 Battlefield™ 6                   🕘 16 hrs 37 mins
-🎮 Blender                          🕘 1792 hrs 35 mins
+🎮 Blender                          🕘 1793 hrs 14 mins
 🎮 SteamVR                          🕘 623 hrs 45 mins
 🎮 OVR Advanced Settings            🕘 514 hrs 9 mins
 ```
