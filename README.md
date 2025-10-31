@@ -20,10 +20,10 @@
 🎮 Recently played Steam games
 ```text
 🎮 Blender                          🕘 1882 hrs 8 mins
-🎮 Bongo Cat                        🕘 56 hrs 18 mins
-🎮 SteamVR                          🕘 636 hrs 34 mins
-🎮 OVR Advanced Settings            🕘 526 hrs 35 mins
-🎮 VRChat                           🕘 1675 hrs 19 mins
+🎮 Bongo Cat                        🕘 57 hrs 7 mins
+🎮 SteamVR                          🕘 636 hrs 55 mins
+🎮 OVR Advanced Settings            🕘 526 hrs 56 mins
+🎮 VRChat                           🕘 1675 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
