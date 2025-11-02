@@ -23,7 +23,7 @@
 🎮 Bongo Cat                        🕘 57 hrs 7 mins
 🎮 SteamVR                          🕘 654 hrs 51 mins
 🎮 OVR Advanced Settings            🕘 544 hrs 51 mins
-🎮 VRChat                           🕘 1693 hrs 43 mins
+🎮 VRChat                           🕘 1694 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
