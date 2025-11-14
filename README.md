@@ -23,7 +23,7 @@
 🎮 VRChat                           🕘 1711 hrs 36 mins
 🎮 SteamVR                          🕘 659 hrs 13 mins
 🎮 OVR Advanced Settings            🕘 549 hrs 7 mins
-🎮 Battlefield™ 6                   🕘 42 hrs 44 mins
+🎮 Battlefield™ 6                   🕘 42 hrs 50 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
