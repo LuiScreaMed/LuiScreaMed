@@ -19,9 +19,9 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 2014 hrs 14 mins
-🎮 VRChat                           🕘 1717 hrs 30 mins
+🎮 Blender                          🕘 2015 hrs 14 mins
 🎮 Battlefield™ 6                   🕘 43 hrs 59 mins
+🎮 VRChat                           🕘 1717 hrs 30 mins
 🎮 gogh: Focus with Your Avatar     🕘 14 hrs 46 mins
 🎮 Bongo Cat                        🕘 62 hrs 47 mins
 ```
