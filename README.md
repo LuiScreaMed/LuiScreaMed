@@ -19,11 +19,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 2012 hrs 9 mins
+🎮 Blender                          🕘 2012 hrs 13 mins
 🎮 VRChat                           🕘 1717 hrs 29 mins
 🎮 Battlefield™ 6                   🕘 43 hrs 59 mins
 🎮 gogh: Focus with Your Avatar     🕘 14 hrs 46 mins
-🎮 SteamVR                          🕘 659 hrs 57 mins
+🎮 Bongo Cat                        🕘 62 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
