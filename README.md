@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 2023 hrs 18 mins
+🎮 Blender                          🕘 2024 hrs 19 mins
 🎮 Battlefield™ 6                   🕘 43 hrs 59 mins
 🎮 VRChat                           🕘 1717 hrs 33 mins
 🎮 gogh: Focus with Your Avatar     🕘 14 hrs 46 mins
