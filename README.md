@@ -22,8 +22,8 @@
 🎮 Blender                          🕘 2035 hrs 53 mins
 🎮 VRChat                           🕘 1734 hrs 27 mins
 🎮 Battlefield™ 6                   🕘 44 hrs 49 mins
-🎮 gogh: Focus with Your Avatar     🕘 14 hrs 46 mins
 🎮 SteamVR                          🕘 668 hrs 22 mins
+🎮 gogh: Focus with Your Avatar     🕘 14 hrs 46 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
