@@ -21,7 +21,7 @@
 ```text
 🎮 Blender                          🕘 2043 hrs 17 mins
 🎮 VRChat                           🕘 1746 hrs 49 mins
-🎮 Bongo Cat                        🕘 78 hrs 20 mins
+🎮 Bongo Cat                        🕘 79 hrs 21 mins
 🎮 SteamVR                          🕘 668 hrs 22 mins
 🎮 Battlefield™ 6                   🕘 44 hrs 49 mins
 ```
