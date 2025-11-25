@@ -21,7 +21,7 @@
 ```text
 🎮 Blender                          🕘 2043 hrs 17 mins
 🎮 VRChat                           🕘 1746 hrs 49 mins
-🎮 Bongo Cat                        🕘 87 hrs 1 mins
+🎮 Bongo Cat                        🕘 87 hrs 31 mins
 🎮 SteamVR                          🕘 668 hrs 22 mins
 🎮 OVR Advanced Settings            🕘 557 hrs 40 mins
 ```
