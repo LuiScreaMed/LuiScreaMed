@@ -23,7 +23,7 @@
 🎮 VRChat                           🕘 1801 hrs 51 mins
 🎮 SteamVR                          🕘 707 hrs 55 mins
 🎮 OVR Advanced Settings            🕘 597 hrs 9 mins
-🎮 Risk of Rain 2                   🕘 81 hrs 48 mins
+🎮 Risk of Rain 2                   🕘 83 hrs 7 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
