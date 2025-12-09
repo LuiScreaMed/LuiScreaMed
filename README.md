@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 Bongo Cat                        🕘 160 hrs 0 mins
-🎮 VRChat                           🕘 1809 hrs 42 mins
+🎮 VRChat                           🕘 1810 hrs 13 mins
 🎮 SteamVR                          🕘 715 hrs 47 mins
 🎮 OVR Advanced Settings            🕘 605 hrs 1 mins
 🎮 Risk of Rain 2                   🕘 83 hrs 7 mins
