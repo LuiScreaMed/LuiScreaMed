@@ -19,9 +19,9 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 1832 hrs 7 mins
-🎮 OVR Advanced Settings            🕘 623 hrs 37 mins
-🎮 SteamVR                          🕘 731 hrs 32 mins
+🎮 VRChat                           🕘 1832 hrs 37 mins
+🎮 OVR Advanced Settings            🕘 624 hrs 7 mins
+🎮 SteamVR                          🕘 732 hrs 2 mins
 🎮 Bongo Cat                        🕘 165 hrs 37 mins
 🎮 Blender                          🕘 2055 hrs 1 mins
 ```
