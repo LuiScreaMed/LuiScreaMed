@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 1899 hrs 23 mins
-🎮 Blender                          🕘 2108 hrs 10 mins
+🎮 Blender                          🕘 2108 hrs 27 mins
 🎮 SteamVR                          🕘 779 hrs 2 mins
 🎮 OVR Advanced Settings            🕘 670 hrs 48 mins
 🎮 Bongo Cat                        🕘 183 hrs 2 mins
