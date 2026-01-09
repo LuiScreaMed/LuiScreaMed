@@ -20,10 +20,10 @@
 🎮 Recently played Steam games
 ```text
 🎮 Blender                          🕘 2175 hrs 0 mins
-🎮 VRChat                           🕘 1965 hrs 23 mins
-🎮 SteamVR                          🕘 843 hrs 12 mins
-🎮 Standable: Full Body Estimation  🕘 67 hrs 12 mins
-🎮 OVR Advanced Settings            🕘 734 hrs 52 mins
+🎮 VRChat                           🕘 1965 hrs 53 mins
+🎮 SteamVR                          🕘 843 hrs 42 mins
+🎮 Standable: Full Body Estimation  🕘 67 hrs 42 mins
+🎮 OVR Advanced Settings            🕘 735 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
