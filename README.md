@@ -21,9 +21,9 @@
 ```text
 🎮 Blender                          🕘 2178 hrs 8 mins
 🎮 VRChat                           🕘 1973 hrs 53 mins
+🎮 Escape from Tarkov               🕘 14 hrs 58 mins
 🎮 SteamVR                          🕘 850 hrs 0 mins
 🎮 Standable: Full Body Estimation  🕘 73 hrs 59 mins
-🎮 OVR Advanced Settings            🕘 741 hrs 39 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
