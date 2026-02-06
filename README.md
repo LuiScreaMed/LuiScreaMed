@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Escape from Tarkov               🕘 123 hrs 54 mins
+🎮 Escape from Tarkov               🕘 125 hrs 25 mins
 🎮 SteamVR                          🕘 890 hrs 19 mins
 🎮 OVR Advanced Settings            🕘 781 hrs 39 mins
 🎮 Standable: Full Body Estimation  🕘 114 hrs 11 mins
