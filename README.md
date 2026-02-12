@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Escape from Tarkov               🕘 140 hrs 45 mins
+🎮 Escape from Tarkov               🕘 141 hrs 30 mins
 🎮 VRChat                           🕘 2017 hrs 31 mins
 🎮 SteamVR                          🕘 893 hrs 17 mins
 🎮 OVR Advanced Settings            🕘 784 hrs 11 mins
