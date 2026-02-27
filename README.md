@@ -22,7 +22,7 @@
 🎮 Escape from Tarkov               🕘 215 hrs 58 mins
 🎮 VRChat                           🕘 2021 hrs 10 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 233 hrs 2 mins
-🎮 SteamVR                          🕘 895 hrs 13 mins
+🎮 PAYDAY 2                         🕘 627 hrs 1 mins
 🎮 Standable: Full Body Estimation  🕘 118 hrs 37 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
