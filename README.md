@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Escape from Tarkov               🕘 217 hrs 47 mins
+🎮 Escape from Tarkov               🕘 218 hrs 47 mins
 🎮 VRChat                           🕘 2021 hrs 10 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 233 hrs 2 mins
 🎮 PAYDAY 2                         🕘 627 hrs 1 mins
