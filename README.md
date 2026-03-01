@@ -20,10 +20,10 @@
 🎮 Recently played Steam games
 ```text
 🎮 Escape from Tarkov               🕘 232 hrs 16 mins
-🎮 VRChat                           🕘 2021 hrs 32 mins
+🎮 VRChat                           🕘 2022 hrs 4 mins
 🎮 雀魂麻将(MahjongSoul)            🕘 233 hrs 2 mins
-🎮 SteamVR                          🕘 895 hrs 37 mins
-🎮 Standable: Full Body Estimation  🕘 119 hrs 1 mins
+🎮 SteamVR                          🕘 896 hrs 7 mins
+🎮 Standable: Full Body Estimation  🕘 119 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
