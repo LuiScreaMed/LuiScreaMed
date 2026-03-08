@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Escape from Tarkov               🕘 261 hrs 48 mins
+🎮 Escape from Tarkov               🕘 263 hrs 18 mins
 🎮 VRChat                           🕘 2031 hrs 47 mins
 🎮 SteamVR                          🕘 904 hrs 55 mins
 🎮 Standable: Full Body Estimation  🕘 128 hrs 19 mins
