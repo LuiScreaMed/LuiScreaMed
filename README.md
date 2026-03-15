@@ -21,8 +21,8 @@
 ```text
 🎮 Escape from Tarkov               🕘 288 hrs 39 mins
 🎮 VRChat                           🕘 2032 hrs 52 mins
-🎮 SteamVR                          🕘 906 hrs 7 mins
 🎮 Standable: Full Body Estimation  🕘 129 hrs 31 mins
+🎮 SteamVR                          🕘 906 hrs 7 mins
 🎮 OVR Advanced Settings            🕘 796 hrs 57 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
