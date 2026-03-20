@@ -21,9 +21,9 @@
 ```text
 🎮 Escape from Tarkov               🕘 289 hrs 36 mins
 🎮 Beat Saber                       🕘 28 hrs 51 mins
-🎮 VRChat                           🕘 2038 hrs 27 mins
-🎮 SteamVR                          🕘 907 hrs 20 mins
-🎮 Standable: Full Body Estimation  🕘 130 hrs 23 mins
+🎮 VRChat                           🕘 2039 hrs 27 mins
+🎮 SteamVR                          🕘 908 hrs 20 mins
+🎮 Standable: Full Body Estimation  🕘 131 hrs 23 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
