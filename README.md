@@ -21,7 +21,7 @@
 ```text
 🎮 Beat Saber                       🕘 31 hrs 45 mins
 🎮 Escape from Tarkov               🕘 289 hrs 36 mins
-🎮 VRChat                           🕘 2042 hrs 23 mins
+🎮 VRChat                           🕘 2044 hrs 23 mins
 🎮 SteamVR                          🕘 910 hrs 14 mins
 🎮 Blender                          🕘 2186 hrs 33 mins
 ```
