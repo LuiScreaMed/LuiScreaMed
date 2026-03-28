@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 VRChat                           🕘 2101 hrs 59 mins
-🎮 Beat Saber                       🕘 38 hrs 36 mins
+🎮 Beat Saber                       🕘 39 hrs 6 mins
 🎮 Blender                          🕘 2201 hrs 55 mins
 🎮 SteamVR                          🕘 922 hrs 11 mins
 🎮 Standable: Full Body Estimation  🕘 145 hrs 11 mins
