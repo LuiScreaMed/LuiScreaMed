@@ -23,7 +23,7 @@
 🎮 SteamVR                          🕘 1015 hrs 14 mins
 🎮 Standable: Full Body Estimation  🕘 237 hrs 56 mins
 🎮 OVR Advanced Settings            🕘 904 hrs 32 mins
-🎮 Slay the Spire 2                 🕘 26 hrs 44 mins
+🎮 Slay the Spire 2                 🕘 27 hrs 44 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
