@@ -20,8 +20,8 @@
 🎮 Recently played Steam games
 ```text
 🎮 SteamVR                          🕘 1024 hrs 57 mins
-🎮 OVR Advanced Settings            🕘 914 hrs 15 mins
 🎮 Standable: Full Body Estimation  🕘 247 hrs 38 mins
+🎮 OVR Advanced Settings            🕘 914 hrs 15 mins
 🎮 VRChat                           🕘 2204 hrs 2 mins
 🎮 Slay the Spire 2                 🕘 30 hrs 17 mins
 ```
