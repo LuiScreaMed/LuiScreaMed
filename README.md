@@ -19,10 +19,10 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2208 hrs 28 mins
-🎮 SteamVR                          🕘 1024 hrs 57 mins
-🎮 Standable: Full Body Estimation  🕘 247 hrs 38 mins
-🎮 OVR Advanced Settings            🕘 914 hrs 15 mins
+🎮 VRChat                           🕘 2208 hrs 45 mins
+🎮 SteamVR                          🕘 1025 hrs 15 mins
+🎮 Standable: Full Body Estimation  🕘 247 hrs 56 mins
+🎮 OVR Advanced Settings            🕘 914 hrs 32 mins
 🎮 Slay the Spire 2                 🕘 32 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
