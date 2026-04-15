@@ -19,10 +19,10 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 VRChat                           🕘 2223 hrs 6 mins
-🎮 SteamVR                          🕘 1039 hrs 3 mins
-🎮 OVR Advanced Settings            🕘 928 hrs 18 mins
-🎮 Standable: Full Body Estimation  🕘 261 hrs 41 mins
+🎮 VRChat                           🕘 2224 hrs 6 mins
+🎮 SteamVR                          🕘 1040 hrs 3 mins
+🎮 Standable: Full Body Estimation  🕘 262 hrs 41 mins
+🎮 OVR Advanced Settings            🕘 929 hrs 18 mins
 🎮 Beat Saber                       🕘 62 hrs 13 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
