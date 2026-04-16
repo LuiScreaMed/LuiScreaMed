@@ -23,7 +23,7 @@
 🎮 SteamVR                          🕘 1043 hrs 33 mins
 🎮 OVR Advanced Settings            🕘 932 hrs 47 mins
 🎮 Standable: Full Body Estimation  🕘 265 hrs 58 mins
-🎮 Beat Saber                       🕘 62 hrs 43 mins
+🎮 Beat Saber                       🕘 63 hrs 21 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
