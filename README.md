@@ -23,7 +23,7 @@
 🎮 VRChat                           🕘 2335 hrs 10 mins
 🎮 Standable: Full Body Estimation  🕘 367 hrs 9 mins
 🎮 OVR Advanced Settings            🕘 1033 hrs 54 mins
-🎮 Beat Saber                       🕘 84 hrs 50 mins
+🎮 Beat Saber                       🕘 86 hrs 27 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
