@@ -23,7 +23,7 @@
 🎮 SteamVR                          🕘 1459 hrs 53 mins
 🎮 Standable: Full Body Estimation  🕘 656 hrs 52 mins
 🎮 OVR Advanced Settings            🕘 1323 hrs 30 mins
-🎮 Blender                          🕘 2330 hrs 12 mins
+🎮 Blender                          🕘 2333 hrs 12 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
