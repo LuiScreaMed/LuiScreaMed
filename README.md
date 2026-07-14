@@ -19,8 +19,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
+🎮 Palworld                         🕘 29 hrs 0 mins
 🎮 SteamVR                          🕘 1596 hrs 16 mins
-🎮 Palworld                         🕘 27 hrs 0 mins
 🎮 Standable: Full Body Estimation  🕘 790 hrs 10 mins
 🎮 OVR Advanced Settings            🕘 1456 hrs 44 mins
 🎮 Beat Saber                       🕘 217 hrs 52 mins
