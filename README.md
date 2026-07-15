@@ -20,7 +20,7 @@
 🎮 Recently played Steam games
 ```text
 🎮 Palworld                         🕘 33 hrs 23 mins
-🎮 Blender                          🕘 2390 hrs 39 mins
+🎮 Blender                          🕘 2392 hrs 39 mins
 🎮 SteamVR                          🕘 1596 hrs 16 mins
 🎮 Standable: Full Body Estimation  🕘 790 hrs 10 mins
 🎮 OVR Advanced Settings            🕘 1456 hrs 44 mins
