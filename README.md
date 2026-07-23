@@ -21,9 +21,9 @@
 ```text
 🎮 Palworld                         🕘 74 hrs 32 mins
 🎮 Blender                          🕘 2443 hrs 37 mins
-🎮 SteamVR                          🕘 1603 hrs 41 mins
-🎮 Standable: Full Body Estimation  🕘 797 hrs 27 mins
-🎮 OVR Advanced Settings            🕘 1464 hrs 1 mins
+🎮 SteamVR                          🕘 1605 hrs 11 mins
+🎮 Standable: Full Body Estimation  🕘 798 hrs 57 mins
+🎮 OVR Advanced Settings            🕘 1465 hrs 31 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
