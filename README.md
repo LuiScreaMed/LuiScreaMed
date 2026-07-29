@@ -21,7 +21,7 @@
 ```text
 🎮 Blender                          🕘 2491 hrs 18 mins
 🎮 Palworld                         🕘 88 hrs 58 mins
-🎮 Slay the Spire 2                 🕘 84 hrs 35 mins
+🎮 Slay the Spire 2                 🕘 86 hrs 19 mins
 🎮 SteamVR                          🕘 1607 hrs 51 mins
 🎮 Standable: Full Body Estimation  🕘 801 hrs 36 mins
 ```
