@@ -19,11 +19,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 2493 hrs 18 mins
-🎮 Palworld                         🕘 89 hrs 38 mins
+🎮 Blender                          🕘 2495 hrs 48 mins
+🎮 Palworld                         🕘 89 hrs 41 mins
 🎮 Slay the Spire 2                 🕘 86 hrs 19 mins
+🎮 VRChat                           🕘 2788 hrs 33 mins
 🎮 SteamVR                          🕘 1607 hrs 51 mins
-🎮 Standable: Full Body Estimation  🕘 801 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
