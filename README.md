@@ -19,8 +19,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 2491 hrs 18 mins
-🎮 Palworld                         🕘 88 hrs 58 mins
+🎮 Blender                          🕘 2493 hrs 18 mins
+🎮 Palworld                         🕘 89 hrs 38 mins
 🎮 Slay the Spire 2                 🕘 86 hrs 19 mins
 🎮 SteamVR                          🕘 1607 hrs 51 mins
 🎮 Standable: Full Body Estimation  🕘 801 hrs 36 mins
