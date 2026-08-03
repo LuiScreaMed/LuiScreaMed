@@ -22,8 +22,8 @@
 🎮 Blender                          🕘 2533 hrs 35 mins
 🎮 Palworld                         🕘 99 hrs 59 mins
 🎮 Slay the Spire 2                 🕘 92 hrs 26 mins
-🎮 SteamVR                          🕘 1611 hrs 1 mins
 🎮 VRChat                           🕘 2788 hrs 55 mins
+🎮 SteamVR                          🕘 1611 hrs 1 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
