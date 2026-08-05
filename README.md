@@ -23,7 +23,7 @@
 🎮 Palworld                         🕘 103 hrs 50 mins
 🎮 Slay the Spire 2                 🕘 93 hrs 14 mins
 🎮 VRChat                           🕘 2789 hrs 31 mins
-🎮 SteamVR                          🕘 1611 hrs 34 mins
+🎮 SteamVR                          🕘 1613 hrs 36 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
