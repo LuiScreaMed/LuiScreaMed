@@ -19,8 +19,8 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 2551 hrs 23 mins
-🎮 Palworld                         🕘 105 hrs 10 mins
+🎮 Blender                          🕘 2552 hrs 23 mins
+🎮 Palworld                         🕘 106 hrs 10 mins
 🎮 Slay the Spire 2                 🕘 93 hrs 14 mins
 🎮 VRChat                           🕘 2789 hrs 31 mins
 🎮 SteamVR                          🕘 1613 hrs 36 mins
