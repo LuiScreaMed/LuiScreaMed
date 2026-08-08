@@ -22,8 +22,8 @@
 🎮 Blender                          🕘 2560 hrs 22 mins
 🎮 Palworld                         🕘 106 hrs 23 mins
 🎮 Slay the Spire 2                 🕘 93 hrs 14 mins
+🎮 Beat Saber                       🕘 235 hrs 48 mins
 🎮 VRChat                           🕘 2790 hrs 17 mins
-🎮 Beat Saber                       🕘 235 hrs 3 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
