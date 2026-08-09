@@ -23,7 +23,7 @@
 🎮 Palworld                         🕘 106 hrs 23 mins
 🎮 Slay the Spire 2                 🕘 95 hrs 0 mins
 🎮 Beat Saber                       🕘 235 hrs 53 mins
-🎮 SteamVR                          🕘 1613 hrs 47 mins
+🎮 SteamVR                          🕘 1614 hrs 47 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
