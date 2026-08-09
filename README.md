@@ -22,8 +22,8 @@
 🎮 Blender                          🕘 2564 hrs 49 mins
 🎮 Palworld                         🕘 107 hrs 9 mins
 🎮 Slay the Spire 2                 🕘 95 hrs 0 mins
-🎮 SteamVR                          🕘 1616 hrs 28 mins
-🎮 Standable: Full Body Estimation  🕘 810 hrs 10 mins
+🎮 SteamVR                          🕘 1616 hrs 53 mins
+🎮 Standable: Full Body Estimation  🕘 810 hrs 35 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
