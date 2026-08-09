@@ -21,7 +21,7 @@
 ```text
 🎮 Blender                          🕘 2560 hrs 22 mins
 🎮 Palworld                         🕘 106 hrs 23 mins
-🎮 Slay the Spire 2                 🕘 93 hrs 14 mins
+🎮 Slay the Spire 2                 🕘 94 hrs 14 mins
 🎮 Beat Saber                       🕘 235 hrs 48 mins
 🎮 SteamVR                          🕘 1613 hrs 36 mins
 ```
