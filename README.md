@@ -19,7 +19,7 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 Blender                          🕘 2725 hrs 44 mins
+🎮 Blender                          🕘 2731 hrs 22 mins
 🎮 VRChat                           🕘 2925 hrs 42 mins
 🎮 SteamVR                          🕘 1729 hrs 4 mins
 🎮 Standable: Full Body Estimation  🕘 915 hrs 5 mins
