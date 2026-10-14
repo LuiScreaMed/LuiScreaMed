@@ -19,11 +19,11 @@
 <!-- steam-box start -->
 🎮 Recently played Steam games
 ```text
-🎮 SteamVR                          🕘 1879 hrs 10 mins
-🎮 OVR Advanced Settings            🕘 1730 hrs 55 mins
-🎮 Standable: Full Body Estimation  🕘 1064 hrs 12 mins
-🎮 VRChat                           🕘 3051 hrs 7 mins
-🎮 OyasumiVR                        🕘 116 hrs 25 mins
+🎮 SteamVR                          🕘 1884 hrs 10 mins
+🎮 OVR Advanced Settings            🕘 1735 hrs 55 mins
+🎮 Standable: Full Body Estimation  🕘 1069 hrs 12 mins
+🎮 VRChat                           🕘 3056 hrs 7 mins
+🎮 OyasumiVR                        🕘 121 hrs 25 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
 <!-- steam-box end -->
