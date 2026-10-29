@@ -1,11 +1,3 @@
-<p align="center"><img src="./top.jpg" width="50%"/></p>
-<details>
-    <summary align="center"></summary>
-    <p align="center">播放键</p>
-</details>
-
----
-
 <h3 align="center">重度轻音乐爱好者，职业休闲游戏玩家，高级屎山代码写手，全能型低创视频主</h3>
 <br>
 
