@@ -15,7 +15,7 @@
 🎮 SteamVR                          🕘 2079 hrs 31 mins
 🎮 Standable: Full Body Estimation  🕘 1264 hrs 3 mins
 🎮 OVR Advanced Settings            🕘 1930 hrs 44 mins
-🎮 VRChat                           🕘 3246 hrs 34 mins
+🎮 VRChat                           🕘 3247 hrs 35 mins
 🎮 OyasumiVR                        🕘 291 hrs 4 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
